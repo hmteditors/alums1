@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet  type="text/css" href="scholia-css/tei-scholia.css" title="TEI
+style simple scholia" alternate="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Book 8 Scholia: Upsilon 1.1</title>
+            <author>Stephanie Lindeborg</author>
+            <author>Brian Clark</author>
+            <author>Becky Musgrave</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed directly from photography of E3 MS</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <group n="8">
+
+         <text n="e3">
+            <body>
+
+
+               <div n="2" type="scholion">
+                  <div type="marker">
+                     <p><num value="10">Ι</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.1</p>
+                  </div>
+                  <div type="comment">
+                     <p>This is the book they called the interrupted battle. For it being
+                        problematic abbreviates the narrative of the Achaeans. Dawn is called
+                        [yellow-veiled] <note resp="HMT">the word κεκροπεπλος cannot be read from
+                           the text of the Upsilon 1.1 but is restored from an analogous scholion in
+                           the Venetus B and the Iliadic line</note>, whenever there is much
+                        darkness, there is some light. As opposed to [being called] <foreign
+                           xml:lang="grc">ροδοδακτυλος</foreign> (rosy-fingered). The periphrasis is
+                        poetic. As [the poet] says day has come. εδκιδνατο is in the imperfect
+                        tense, because the earth being spherical, is not illuminated all at once.
+                     </p>
+                  </div>
+               </div>
+
+               <div n="44" type="scholion">
+                  <div type="marker">
+                     <p><num value="21">ΚΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.70</p>
+                  </div>
+                  <div type="comment">
+                     <p>How does Zeus set down two fates/dooms as there is one fulfillment/end for
+                        each army? In these matters they say that <foreign xml:lang="grc"
+                           >πλειους</foreign> is a logical arrangement of words: <foreign
+                           xml:lang="grc">αἱ μὲν Ἀχαιῶν κῆρες</foreign> (The fates of the Achaeans).
+                        Because there may be <foreign xml:lang="grc">δυο</foreign> (two) or <foreign
+                           xml:lang="grc">πολλαι</foreign> (many). Indeed I say that matters are
+                        twofold. But others it is "πλειονων" with the noun giving emphasis.
+                        Similarly in a change of case he [the poet] said <foreign xml:lang="grc"
+                           >πλεονας</foreign>. It is a figure of speech, one of the measuring out
+                        together figures of speech. Death is said to be like burning. Therefore one
+                        is put to rest through fire. If it reveals/releases the soul as if it were .
+                        For one customarily searches for knowledge in oneself. </p>
+                  </div>
+               </div>
+               <div n="26" type="scholion">
+                  <div type="marker">
+                     <p><num value="7">Ζ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.33</p>
+                  </div>
+                  <div type="comment">
+                     <p>He does not reveal his thoughts because he wishes to be an ally to the
+                        Trojans. But he orders them to hinder themselves in aiding both sides. She,
+                        understanding it, refuted his logic.</p>
+                  </div>
+               </div>
+               <div n="68" type="scholion">
+                  <div type="marker">
+                     <p><num value="20">Κ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.114</p>
+                  </div>
+                  <div type="comment">
+                     <p>In the line he has shown that it is expected that he [Sthenelos] be left
+                        behind. For he has not said previously where the charioteers were. They say
+                        that Sthenelos having been brought down from the walls was wounded with
+                        respect to his leg and because of this he did not fight but rather held the
+                        reins for Diomedes.</p>
+                  </div>
+               </div>
+               <div n="69" type="scholion">
+                  <div type="marker">
+                     <p><num value="21">ΚΑ ΚΑ</num><note resp="HMT">There are two scholion numbers,
+                           one written in the interior margin and one written before the scholion
+                           text</note></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.112</p>
+                  </div>
+                  <div type="comment">
+                     <p>It is economical for Nestor to mount the chariot of Diomedes, in order that
+                        he be persuaded to flee and to yield to the exhortations of Nestor. For he
+                        [Diomedes] could not be persuaded by Sthenelus. Whereas not in the lines
+                        above, was he [able] to urge him to mount the chariot.</p>
+                  </div>
+               </div>
+               <div n="58" type="scholion">
+                  <div type="marker">
+                     <p><num value="12">ΙΒ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.93</p>
+                  </div>
+                  <div type="comment">
+                     <p>The epithet is used because of the retreat. For it is necessary for him to
+                        be such a soldier. For he is a farmer [as is seen] from the passage in which
+                        he knows well how to move the sickle in the grass and all the implements for
+                        farming. He is a ship-steerer because he keeps the sail straight (Odyssey
+                        10.32). A carpenter, from the good condition of the stones. And from the
+                        skillful sawing of wood. A shipbuilder from the ship. A hunter from leading
+                        the hunting packs and from the knowledge of the mountains. A seer from the
+                        landing places. A cook from, as is necessary, roasting and cutting up. A
+                        doctor, from the passages in which he diagnoses sickness and cuts out
+                        arrows. A musician and a singer from beauty of his songs and speeches. A
+                        boxer and a wrestler from versatility and his wrestling grip. An archer,
+                        from the best ability to survey. A javelin-thrower, from the passage where
+                        he throws the spear well. An orator, from his persuasiveness. A general from
+                        his foresight and manly courage. A soldier from craftiness and great
+                        experience</p>
+                  </div>
+               </div>
+               <div n="153" type="scholion">
+                  <div type="marker">
+                     <p><num value="7">Ζ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.233</p>
+                  </div>
+                  <div type="comment">
+                     <p>Rather the full form <foreign xml:lang="grc">αντα</foreign>. As is
+                        preferable to Herodian as well. Indeed it is not <foreign xml:lang="grc"
+                           >αντι</foreign> even though it seemed so to Aristarchus.</p>
+                  </div>
+               </div>
+               <div n="128" type="scholion">
+                  <div type="marker">
+                     <p><num value="17">ΙΖ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.208</p>
+                  </div>
+                  <div type="comment">
+                     <p>He does not say, as is common, <foreign xml:lang="grc">την δ’ ημειβετ’
+                           επειτα</foreign>. But on account of her harshness, he renounces her
+                        impudence.</p>
+                  </div>
+               </div>
+               <div n="13" type="scholion">
+                  <div type="marker">
+                     <p><num value="21">ΚΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.13</p>
+                  </div>
+                  <div type="comment">
+                     <p>Tartarus is opposite to Olympus. For the one, "never shook with winds, nor
+                        with heavy rain" (Odyssey 6.43). And the other is chaotic and it seems to be
+                        cold, from which they say that to fall into Tartarus is to be violently
+                        cold. And the one is wholly shone upon and the other is cloudy</p>
+                  </div>
+               </div>
+               <div n="16" type="scholion">
+                  <div type="marker">
+                     <p><num value="24">ΚΔ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.16</p>
+                  </div>
+                  <div type="comment">
+                     <p>The heavens, as he [the poet] says, have three distinct parts. The lower air
+                        spans up to the clouds. Then the aether spans up to the visible places and
+                        the realm of Zeus. And in a similar way so it goes from the earth to Hades,
+                        from Hades to Tartarus. And so the earth is clearly as the middle center
+                        point. And it is right to say that it is as far beneath the earth as the
+                        earth is from heaven. And indeed perhaps he [the poet] calls it Hades
+                        because of the rulership of Hades.</p>
+                  </div>
+               </div>
+               <div n="127" type="scholion">
+                  <div type="marker">
+                     <p><num value="16">ΙϚ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.206-8.207</p>
+                  </div>
+                  <div type="comment">
+                     <p>One ought to place the nu at the beginning of the line because the consonant
+                        is before the elision and is connected to the following vowel. But there is
+                        a full stop after the nu. For it should be placed between the syllable and
+                        between the elision. Often in the beginning of a line a full stop is placed
+                        poetically. </p>
+                  </div>
+               </div>
+               <div n="180" type="scholion">
+                  <div type="marker">
+                     <p><num value="21">ΚΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.261-8.266</p>
+                  </div>
+                  <div type="comment">
+                     <p>The poet, reporting the flight of the Greeks, does not require many names.
+                        But now in the battle he recalls many of those who retreated.</p>
+                  </div>
+               </div>
+               <div n="181" type="scholion">
+                  <div type="marker">
+                     <p><num value="22">ΚΒ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.266</p>
+                  </div>
+                  <div type="comment">
+                     <p>The poet makes a distinction because he is about to speak about him
+                        [Teucer]. But Odysseus is within rousing the soldiers. Thoas is also not
+                        mentioned and he [Thoas] is not entirely cowardly [either]. <note resp="HMT"
+                           >see Iliad 7.168</note></p>
+                  </div>
+               </div>
+               <div n="57" type="scholion">
+                  <div type="marker">
+                     <p><num value="11">ΙΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.92</p>
+                  </div>
+                  <div type="comment">
+                     <p>In the lines, it is apparent that Odysseus has also fled. Above mention is
+                        made of him, but Diomedes is always steadfast and he alone wishes to go
+                        nowhere. </p>
+                  </div>
+               </div>
+               <div n="62" type="scholion">
+                  <div type="marker">
+                     <p><num value="14">ΙΔ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.97</p>
+                  </div>
+                  <div type="comment">
+                     <p>He did not hear because of the noise or he was not persuaded because of the
+                        crisis. For he flees with the Ajaxes and he does not want to wage war
+                        against the gods. For how is that cowardly? He is fleeing with everyone
+                        else. Because Diomedes would not have called out to him alone.</p>
+                  </div>
+               </div>
+               <div n="107" type="scholion">
+                  <div type="marker">
+                     <p><num value="5">Ε</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.178</p>
+                  </div>
+                  <div type="comment">
+                     <p>From the one <foreign xml:lang="grc">οὐδενόσωρα</foreign>. Because such a
+                        compound also is rare. But I say it is [a compound] from the negation and
+                        the conjunction [<foreign xml:lang="grc">δε</foreign>] and because of the
+                        genitive <foreign xml:lang="grc">ἑνὸς</foreign> . But others preserve it as
+                           <foreign xml:lang="grc">οὐδενὸς</foreign>. But it is persuasive to
+                        remember that it is a recent work [i.e. the wall], when he [Hector] is
+                        greatly disparaging the action of the Achaeans.</p>
+                  </div>
+               </div>
+               <div n="283" type="scholion">
+                  <div type="marker">
+                     <p><num value="12">ΙΒ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.408</p>
+                  </div>
+                  <div type="comment">
+                     <p>"to hinder" but the metaphor is taken from spears being struck against
+                        shields. </p>
+                  </div>
+               </div>
+               <div n="90" type="scholion">
+                  <div type="marker">
+                     <p><num value="16">ΙϚ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.150</p>
+                  </div>
+                  <div type="comment">
+                     <p>t is <foreign xml:lang="grc">εὐρεῖα</foreign> instead of <foreign
+                           xml:lang="grc">εὐρέως</foreign>, and he says that death is better than
+                        disgrace.</p>
+                  </div>
+               </div>
+               <div n="308" type="scholion">
+                  <div type="marker">
+                     <p><num value="8">Η</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.429</p>
+                  </div>
+                  <div type="comment">
+                     <p>Whenever he [the poet] is looking at the reputation of the gods, then he
+                        says they would not be moved by anything concerning mortals. Just as we
+                        would not be moved concerning ants. But whenever he considers poetry, he
+                        follows the stories and makes the subject famous: bringing about alliances
+                        and wars among gods.</p>
+                  </div>
+               </div>
+               <div n="390" type="scholion">
+                  <div type="marker">
+                     <p><num value="5">Ε</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.526-8.527</p>
+                  </div>
+                  <div type="comment">
+                     <p>Look at the change of mind of Hector. He was speaking to his wife "The day
+                        shall come when sacred Ilion is destroyed" (Iliad 6.448). But it is so
+                        elsewhere. For there he is despondent because the Trojans were inferior. But
+                        here he hopes for good fortune because they are superior in battle.</p>
+                  </div>
+               </div>
+               <div n="92" type="scholion">
+                  <div type="marker">
+                     <p><num value="18">ΙΗ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.153-8.154</p>
+                  </div>
+                  <div type="comment">
+                     <p>First it is not clear if he [Hector] will say [what Diomedes thinks he
+                        will], and otherwise he will not persuade them. But he [Nestor] assails to
+                        the ones considering what men will say to them. Let them not care what sort
+                        of thing it is.</p>
+                  </div>
+               </div>
+               <div n="93" type="scholion">
+                  <div type="marker">
+                     <p><num value="19">ΙΘ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.157</p>
+                  </div>
+                  <div type="comment">
+                     <p>Sensibly, he [Nestor] does not wait for the refutation of Diomedes, nor does
+                        he force him, being a lover of honor, to agree to flee. But he turns the
+                        horses so that the poet does not lessen Diomedes' honor because of these
+                        things.</p>
+                  </div>
+               </div>
+               <div n="100" type="scholion">
+                  <div type="marker">
+                     <p><num value="24">ΚΔ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.167</p>
+                  </div>
+                  <div type="comment">
+                     <p>How having said that Diomedes is divided into two minds, he [the poet] only
+                        includes one. But we say that [he is] divided into two plans which converge
+                        into one: "to turn the horses and be at war with the enemy." Or that he lets
+                        go of the one which is said the same way, rather than to turn or not to
+                        turn, which he [the poet] leaves one out.</p>
+                  </div>
+               </div>
+               <div n="264" type="scholion">
+                  <div type="marker">
+                     <p><num value="7">Ζ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.377-8.378</p>
+                  </div>
+                  <div type="comment">
+                     <p>Expressively and this regarding the [line] "one who rages beyond what can be
+                        endured" (Iliad 8.355). Aristarchus writes <foreign xml:lang="grc">προφανεῖα</foreign> in the dual. But
+                        Herodian would rather <foreign xml:lang="grc">προφανείσας</foreign> contracting the alpha in the Doric
+                        dialect, by which we are also persuaded. </p>
+                  </div>
+               </div>
+               <div n="232" type="scholion">
+                  <div type="marker">
+                     <p><num value="10">Ι</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.349</p>
+                  </div>
+                  <div type="comment">
+                     <p>Aristarchus says <foreign xml:lang="grc">οἴματα</foreign> but the others say
+                           <foreign xml:lang="grc">ὄμματα</foreign>. Because he says <foreign
+                           xml:lang="grc">βλοσσυρῶπις</foreign>. He [the poet] is accustomed to
+                        characterize the face from the eyes. For example "possessing the eyes of a
+                        dog" (Iliad 1.225). But Aristarchus writes <foreign xml:lang="grc"
+                           >γοργόνος</foreign> wrongly. For neither the poet nor Hesiod say <foreign
+                           xml:lang="grc">γοργὼν</foreign> but rather <foreign xml:lang="grc"
+                           >γοργώ</foreign>.</p>
+                  </div>
+               </div>
+               <div n="204" type="scholion">
+                  <div type="marker">
+                     <p><num value="11">ΙΑ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.296</p>
+                  </div>
+                  <div type="comment">
+                     <p>This says <foreign xml:lang="grc">εἰρωνευόμενος</foreign> instead of
+                           <foreign xml:lang="grc">δεξιούμενος</foreign> and
+                           <foreign>φιλοφρονούμενος</foreign>. For it is clear it is <foreign
+                           xml:lang="grc">δεδεγμένος</foreign> from <foreign xml:lang="grc"
+                           >δέχεσθαι</foreign>.</p>
+                  </div>
+               </div>
+               <div n="376" type="scholion">
+                  <div type="marker">
+                     <p><num value="16">ΙϚ</num></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.513</p>
+                  </div>
+                  <div type="comment">
+                     <p>The wound from the missile. As in <foreign xml:lang="grc">ὡς δ’ ὅτ’ ἂν
+                           ὠδίνουσαν ἔχῃ βέλος</foreign> "Just as when the missile grabs hold of a
+                        woman in labor" (Iliad 11.269).</p>
+                  </div>
+               </div>
+
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet  type="text/css" href="scholia-css/tei-scholia.css" title="TEI
+style simple scholia" alternate="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Book 8 Scholia: Venetus A</title>
+            <author>Stephanie Lindeborg</author>
+            <author>Brian Clark</author>
+            <author>Becky Musgrave</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed directly from photography of Venetus A MS</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <group n="8">
+         <text n="msAim">
+            <body>
+               <div n="213" type="scholion">
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.304</p>
+                     <div type="comment">
+                        <p>Aristarchus writes <foreign xml:lang="grc">Αἱσύμνηθεν</foreign> as does
+                           the text of Zenodtus and the text of Aristophanes.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="124" type="scholion">
+                  <div type="reference">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.157</p>
+                  </div>
+                  <div type="comment">
+                     <p>The texts of Aristarchus have it this way <foreign xml:lang="grc"
+                           >τραπε</foreign> with the alpha. </p>
+                  </div>
+               </div>
+               <div n="200" type="scholion">
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.290</p>
+                  </div>
+                  <div type="comment">
+                     <p>Zenodotus, Aristophanes, and those who agree with them [write] <foreign
+                           xml:lang="grc">ἵππω</foreign>.</p>
+                  </div>
+               </div>
+               <div n="246" type="scholion">
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.371</p>
+                  </div>
+                  <div type="comment">
+                     <p>The lines were not in Zendotous.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text n="msAint">
+            <body>
+               <div n="128" type="scholion">
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.166</p>
+                  </div>
+                  <div type="comment">
+                     <p>In Zendotos [it is] <foreign xml:lang="grc">ποτμον ἐφήσω</foreign>.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text n="msA">
+            <body>
+               <div n="6" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.12</p>
+                  </div>
+                  <div type="comment">
+                     <p>Since heaven has three distinct parts: the lower air spans up until the
+                        clouds, then the aether spans up until the visible places. In a similar way
+                        so it goes both from earth to Hades and from Hades to Tartarus, Tartarus is
+                        in opposition to Olympus. For the one, “never shook with winds, nor with
+                        heavy rain” (Odyssey 6.43). And the other seemed to be both chaotic and
+                        cold, indeed they say that to fall into Tartarus is to be violently cold.
+                        The former is wholly shone upon. The latter is murky.</p>
+                  </div>
+               </div>
+
+               <div n="12" type="scholion">
+                  <div type="lemma">
+                     <p>So much below Hades:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.16</p>
+                  </div>
+                  <div type="comment">
+                     <p>This is the arrangement of the cosmos according to Homer. And because
+                        nothing like this is said about Olympus, and because he leaves out υπερθεν,
+                        which means as far as it is above.</p>
+                  </div>
+               </div>
+               <div n="13" type="scholion">
+                  <div type="lemma">
+                     <p>Tartarus:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.13</p>
+                  </div>
+                  <div type="comment">
+                     <p>The shadowy place below the earth, it is the bottommost portion of Hades.
+                        And he says that it lies in the deepest region or that it is difficult and
+                        vexatious. And it is so named because of the drawing out and the confounding
+                        of everything in itself. But others understand it as the unlit region of
+                        their inhabitance</p>
+                  </div>
+               </div>
+               <div n="14" type="scholion">
+                  <div type="lemma">
+                     <p>All the way down to Hades:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.16</p>
+                  </div>
+                  <div type="comment">
+                     <p>He says that Tartarus stands as far from Hades as Ouranus is from the earth.
+                        And through these [references] he makes the cosmos spherical; he has
+                        introduced the earth in the relation of the center [of the cosmos], he says
+                        that [going] straight from the earth to each opposite side is
+                        equidistant.</p>
+                  </div>
+               </div>
+               <div n="2" type="scholion">
+                  <div type="lemma">
+                     <p>Dawn:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.1</p>
+                  </div>
+                  <div type="comment">
+                     <p>It means many things. On the one hand it is the part of day that has that
+                        time. One the other hand it is the embodiment of a deity as it is in "Dawn
+                        from her couch, next to noble Tithonos" (Iliad 11.1). The time from sunrise
+                        until midday is the interval just as in "Twelve dawns have already passed
+                        for me in Ilium" (Iliad 21.80-21.81).</p>
+                  </div>
+               </div>
+               <div n="78" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.93</p>
+                  </div>
+                  <div type="comment">
+                     <p>The epithet is for the retreat. 1. He is a farmer "in the grass, a curved
+                        scythe" (Odyssey 18.368) 2. A steersman "for [I] always [steered] the sails
+                        of the ship" (Odyssey 10.32) 3. A carpenter from the bed (cf. Odyssey
+                        23.189) 4. A ship builder, from the raft (cf. Odyssey 5.243-5.261) 5. A
+                        hunter, from [the hunt] at Parnassos (c.f. Odyssey 19.428-19.454) 6. A seer,
+                        "I say let someone speak to me" (Odyssey 20.100) <note resp="HMT">Allen’s OCT edition of the
+                        Odyssey reads φήμην τίς μοι φάσθω on this line instead of φημι τίς μοι
+                        φάσθω, which would make it “let someone utter an omen to me”</note> 7. A cook
+                        "cutting up and roasting" (Odyssey 15.323) 8. A doctor "so that he might
+                        have to rub on his arrows" (Odyssey 1.262-263) 9. A musician "a speech like
+                        a singer" (Odyssey 11.368) 10. A boxer "in boxing I overcame Klytomedes"
+                        (Iliad 23.634) 11. A wrestler "in wrestling [I beat] Ancaeus of Pleuron"
+                        (Iliad 23.635) 12. A discus thrower against the Phaiacians (cf. Odyssey
+                        8.186-8.198) 13. An archer "I know the bow well" (Odyssey 8.215) 14. A
+                        javelin-thrower "throwing a spear" (Odyssey 8.229) 15. An orator and an
+                        astronomer "looking upon the Pleiades" (Odyssey 5.272)”</p>
+                  </div>
+               </div>
+               <div n="131" type="scholion">
+                  <div type="lemma">
+                     <p>to turn the horses around</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.168</p>
+                  </div>
+                  <div type="comment">
+                     <p>the sign is there because it is in the subjunctive. "Neither to retreat nor
+                        to fight the enemy." But that is not so. For he was "of two minds." It was
+                        not that he was worried about two different things, but that we interpret it
+                        the same "to turn his horses and fight."</p>
+                  </div>
+               </div>
+               <div n="140" type="scholion">
+                  <div type="lemma">
+                     <p>The shield of Nestor:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.192</p>
+                  </div>
+                  <div type="comment">
+                     <p>It is symbolic of Nestor himself. For some say that his arms were wrought by
+                        Hephaestus.</p>
+                  </div>
+               </div>
+               <div n="146" type="scholion">
+                  <div type="lemma">
+                     <p>the rods</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.193</p>
+                  </div>
+                  <div type="comment">
+                     <p>The bars with which one strengthens shields, for when they are attached to
+                        the handle of a shield, which they call <foreign xml:lang="grc"
+                           >οχανα</foreign>. For later these men had thought it came from the
+                        Carians because Anacreon wrote "Carian-made shield bars."</p>
+                  </div>
+               </div>
+               <div n="147" type="scholion">
+                  <div type="lemma">
+                     <p>embellished</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.195</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because the arms are wrought by Hephaestus because he took
+                        them from Glaukos and he handed out from the arms to his men, and it is not
+                        in figurative language.</p>
+                  </div>
+               </div>
+               <div n="167" type="scholion">
+                  <div type="lemma">
+                     <p>Facing a hundred Trojans:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.233-8.234</p>
+                  </div>
+                  <div type="comment">
+                     <p>There is an acute accent on the syllable <foreign xml:lang="grc"
+                           >ανθ</foreign> because it is the full form <foreign xml:lang="grc"
+                           >αντα</foreign> as Demetrios of Gonypesus correctly thought. And on my
+                        part, this way of literary interpretation is acceptable. For clearly each
+                        man says that he would make a stand against 100 or even 200 Trojans. For the
+                        syntax of <foreign xml:lang="grc">αντα</foreign> is not delayed, unless it
+                        takes the genitive. </p>
+                  </div>
+               </div>
+               <div n="153" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.213</p>
+                  </div>
+                  <div type="comment">
+                     <p><note resp="HMT">there is no critical sign on this line</note>The sign is
+                        also there because <foreign xml:lang="grc">απο ταφρου πυργος εεργε</foreign>
+                        is written in some sources. <foreign xml:lang="grc">εκ νεων</foreign> can be
+                        connected with <foreign xml:lang="grc">απο ταφρου</foreign> because either
+                           <foreign xml:lang="grc">πυργος</foreign> (tower) or <foreign
+                           xml:lang="grc">ταφρος</foreign> (trench) can be against the ships. And it
+                        is possible the things said between the wall the wall and trench, the most
+                        of horses and men are between the wall and the trench, and when he says
+                           <foreign xml:lang="grc">εκ νεων</foreign> so that it it indicates the
+                        space is left between the wall and the trench according to the topography of
+                        newly built things/</p>
+                  </div>
+               </div>
+               <div n="222" type="scholion">
+                  <div type="lemma">
+                     <p>drawing back</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.325</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because <foreign xml:lang="grc">αυερυοντα</foreign> is
+                        clearly means drawing backwards <note resp="HMT">if it's οπισω, there are
+                           some issues in interpreting the words in the Byzantinue
+                           orthography</note> and "a bow that's curved back" comes from this. One
+                        must not entirely make a distinction for <foreign xml:lang="grc"
+                           >αυερυοντα</foreign> as Neoteles thinks. For <foreign xml:lang="grc"
+                           >ωμον</foreign> agrees with him [Teucer] both being hit and drawing.
+                        Indeed, Neoteles of Scythia claims that archery is drawing the bow to the
+                        shoulder.</p>
+                  </div>
+               </div>
+               <div n="182" type="scholion">
+                  <div type="lemma">
+                     <p>Teucer was ninth</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.266</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because while everyone turned around, Odysseus alone
+                        remained next to the ships with the result that the above line is in good
+                        order "as he spoke he did not listen" (Iliad 8.97) because he voluntarily
+                        sent himself past</p>
+                  </div>
+               </div>
+               <div n="197" type="scholion">
+                  <div type="lemma">
+                     <p>Heracles: <note resp="HMT">this lemma is not actually from the
+                        line</note></p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.284</p>
+                  </div>
+                  <div type="comment">
+                     <p>Heracles laid waste to windy Ilium and he took captive the daughter of
+                        Laomedon and sister of Priam and gave her as a gift to Telemon since he
+                        joined him on the expedition. From her, Telamon had Teucer. Since he brought
+                        into the world by a Trojan woman, he called the child Teucer, moving the
+                        accent back and making it a proper noun. For the Trojans were called the
+                        Teucrians from their king Teucer. The story is more precisely told by many
+                        others and by Apollonius the grammarian in the second generation. It is
+                        asked how having received praise from everyone Teucer is now a bastard. We
+                        say that it was not a cause for dishonor. Because the custom of the ancients
+                        prevails. For they honored bastards equally with legitimate children. And
+                        otherwise if someone was a spearman or a commoner but also a royal. And on
+                        account of the magnification, we say that this is said for excellence that
+                        he surpasses the legitimate children.</p>
+                  </div>
+               </div>
+               <div n="16" type="scholion">
+                  <div type="lemma">
+                     <p>golden rope:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.19</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because if Olympus was not taken to be the mountain in
+                        Macedon, it would not agree with these things. For he [the poet] says that
+                        the drops of heaven draw Olympus up to a point so that a point may be bound
+                        up form the peak and the sign is also there because the <foreign
+                           xml:lang="grc">εξ</foreign> is superfluous. </p>
+                  </div>
+               </div>
+               <div n="238" type="scholion">
+                  <div type="lemma">
+                     <p>Gate-fastener:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.367</p>
+                  </div>
+                  <div type="comment">
+                     <p>the gates are strongly bound together and closed because nothing returns
+                        from Hades.</p>
+                  </div>
+               </div>
+               <div n="239" type="scholion">
+                  <div type="lemma">
+                     <p>bringing forth from Erebus the hound of loathed Hades:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.368</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because he makes mention of only this Labor [of Herakles],
+                        there are some according to legend. And because he calls him only <foreign
+                           xml:lang="grc">κυνα</foreign> and does not call him Cerberus as the newer
+                        [poets] do. From the the greatest labor, he makes clear all of the labors.
+                        They know the hound or the form of him. Pindar says he has 100 heads. And
+                        Hesiod says he had 50 heads.</p>
+                  </div>
+               </div>
+               <div n="22" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.29</p>
+                  </div>
+                  <div type="comment">
+                     <p><foreign xml:lang="grc">φρασσάμενοι</foreign> (pointing out) is written, but
+                        rather <foreign xml:lang="grc">αγασσαμενοι</foreign> (wondering), is more in
+                        accordance with what follows. </p>
+                  </div>
+               </div>
+               <div n="133" type="scholion">
+                  <div type="lemma">
+                     <p>without strength</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.178</p>
+                  </div>
+                  <div type="comment">
+                     <p>Heraclides of Meilesius writes it with a grave accent/without an accent
+                           <note resp="HMT">could mean either</note>, like <foreign xml:lang="grc"
+                           >ἄσητα</foreign>, and he uses this word as though it is a stronger
+                           <foreign xml:lang="grc">βληξχρον</foreign>, it ought to mean "not weak"
+                        like <foreign xml:lang="grc">ακακος</foreign> means “not evil", but it means
+                           <foreign xml:lang="grc">ἀσθενές</foreign> (without strength). Indeed the
+                        grammatical tradition marks it with an acute accent. <foreign xml:lang="grc"
+                           >ἀβληχρὰ</foreign> and <foreign xml:lang="grc">ἀβληχρὴν</foreign>
+                        prevailed first by declining as if it is uncompounded. For thus they are
+                        declined like <foreign xml:lang="grc">πενιχρα</foreign> and <foreign
+                           xml:lang="grc">ψυχρα</foreign>. And I write in the feminine just like
+                           <foreign xml:lang="grc">ἀβληχρά</foreign> not sharing in whichever
+                        gender. And I write <foreign xml:lang="grc">ὁ αβληχρὸς</foreign> and
+                           <foreign xml:lang="grc">ἡ ἀβληχρος</foreign>. Elsewhere already this
+                        means <foreign xml:lang="grc">βληχρὸς</foreign>. Since after the majority
+                        rather [the meaning] <foreign xml:lang="grc">ασθενες</foreign> (without
+                        strength) Alcaeus 8 <foreign xml:lang="grc">βληχρῶν ἀνέμων ἀχείμαντοι
+                           πνοαί</foreign> "not stormy blasts of weak wind." And Nicandros writes
+                           <foreign xml:lang="grc">βληχρὸν γὰρ μυὸς οἷα μυληβόρου ἐν χροῒ
+                           νύγμα</foreign> "for the weakness of the mouse was a sort of
+                        millstone-eating, like pricking on the skin." Indeed adding the alpha to it
+                        keeps the accent in the same place. Because I know that the accent is always
+                        the same in <foreign xml:lang="grc">ἄβορος</foreign>
+                        <foreign xml:lang="grc">ἄγαυρος</foreign> and <foreign xml:lang="grc"
+                           >ἄσταχυς</foreign>.</p>
+                  </div>
+               </div>
+               <div n="291" type="scholion">
+                  <div type="lemma">
+                     <p>Indeed Dawn:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.470</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because Zendotos writes <foreign xml:lang="grc">ἄας δη καὶ
+                           μᾶλλον</foreign> instead of <foreign xml:lang="grc">ἐσαύριον</foreign>
+                        but the word is not Homeric</p>
+                  </div>
+               </div>
+               <div n="320" type="scholion">
+                  <div type="lemma">
+                     <p>grain from your halls:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.505-8.507</p>
+                  </div>
+                  <div type="comment">
+                     <p><foreign xml:lang="grc">αξεσαι</foreign> is not the common form with
+                           <foreign xml:lang="grc">σιτου</foreign>, because inanimate objects do not
+                        use the verb <foreign xml:lang="grc">αγω</foreign>, rather <foreign
+                           xml:lang="grc">φερεται</foreign>. Therefore <foreign xml:lang="grc"
+                           >φερεται</foreign> must be understood as left out. </p>
+                  </div>
+               </div>
+               <div n="137" type="scholion">
+                  <div type="lemma">
+                     <p>before you:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.188-8.190</p>
+                  </div>
+                  <div type="comment">
+                     <p>This is the appropriate line order in my opinion <foreign xml:lang="grc">ἠ
+                           εμοὶ ὅς πέρ οἱ θαλερὸς πόσις εὔχομαι εἶναι</foreign> then <foreign
+                           xml:lang="grc">οἴνον τ' ἐγκεράσασα πιεῖν ὅτε</foreign> μοι <foreign
+                           xml:lang="grc">θυμὸς ἀνώγοι</foreign> but one must see that before being
+                        able to make use of the drinking cups they mix the drink</p>
+                  </div>
+               </div>
+               <div n="261" type="scholion">
+                  <div type="lemma">
+                     <p>For she is always given to hinder me in whatever I have decreed:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.408</p>
+                  </div>
+                  <div type="comment">
+                     <p><foreign xml:lang="grc">ἐνικλᾶν</foreign> means "to hinder." It is a
+                        metaphor from spears clashing against shields. And it must be written like
+                        so: <foreign xml:lang="grc">ὅττι κεν εἴπω</foreign> only to hinder and not
+                        to permit what is said by me. Again it is later written in the lines [that]
+                        Iris says <foreign xml:lang="grc">ὅττι κεν εἴπῃ</foreign> (Iliad 8.422)</p>
+                  </div>
+               </div>
+               <div n="324" type="scholion">
+                  <div type="lemma">
+                     <p>and the speech which:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.524-8.525</p>
+                  </div>
+                  <div type="comment">
+                     <p>The two lines are athetized. because the poet says nothing in the following
+                        line. And he substitutes/uses the relative pronoun <foreign xml:lang="grc"
+                           >ὃς μὲν</foreign> instead of the definite article <foreign xml:lang="grc"
+                           >ὁ μέν</foreign>. But the intention is of this sort concerning the things
+                        now and today, the reason is of service to me and nothing is omitted and
+                        nothing is omitted concerning the things happening tomorrow which under dawn
+                        I reveal.</p>
+                  </div>
+               </div>
+               <div n="117" type="scholion">
+                  <div type="lemma">
+                     <p>So shall he someday boast:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.150</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because in general he [the poet] does not say <foreign
+                           xml:lang="grc">εὑρεῖαν</foreign>, but in my opinion the earth becomes
+                        εὑρεῖα before he would compose <foreign xml:lang="grc">εὐρὺ
+                        χάσμα</foreign></p>
+                  </div>
+               </div>
+               <div n="80" type="scholion">
+                  <div type="lemma">
+                     <p>may a man fleeing not:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.95</p>
+                  </div>
+                  <div type="comment">
+                     <p>Some make a distinction after the <foreign xml:lang="grc"
+                        >φεύγοντι</foreign>, but let us also join the whole line. We know that a
+                        man's back does not flee.</p>
+                  </div>
+               </div>
+               <div n="132" type="scholion">
+                  <div type="lemma">
+                     <p>giving a sign to the Trojans:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.171</p>
+                  </div>
+                  <div type="comment">
+                     <p>One ought to have some short pause after <foreign xml:lang="grc"
+                           >Τρώεσσιν</foreign>. Because the sign itself indicates the signal for the
+                        subsequent victory. But if we join it together, it is incorrect syntax.</p>
+                  </div>
+               </div>
+               <div n="208" type="scholion">
+                  <div type="lemma">
+                     <p>but Archeptolemus</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.312</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because Zenodotus left out <foreign xml:lang="grc"
+                           >Ἀρχεπτόλεμον</foreign> and had composed above <foreign xml:lang="grc"
+                           >Ἰ̈φιτίδην Ερασιπτόλεμον</foreign></p>
+                  </div>
+               </div>
+               <div n="136" type="scholion">
+                  <div type="lemma">
+                     <p>Xanthus and you Podargus and Aethon and goodly Lampus:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.185</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because nowhere else does Homer show the use of four
+                        horses yoked together. And it is also a discrepancy with the two being
+                        brought forward and the simple address. There ought to be a short stop after
+                        each name, but if the cold one is joined, it is not able to be understood,
+                        because there are two epithets and two proper names, when the conjunctions
+                        joined by juxtaposition separate themselves from each other, but the proper
+                        names are never joined to the epithets.</p>
+                  </div>
+               </div>
+               <div n="9011" type="scholion">
+                  <div type="lemma">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.206-8.207</p>
+                  </div>
+                  <div type="comment">
+                     <p>But if it lay out of the full line, nothing would be questioned, but since
+                        it is understood the nu in the next line and is carried over by the
+                        grammarians, two rational follow. One because a period has fallen in the
+                        middle of the syllable <foreign xml:lang="grc">ναυ</foreign> and it
+                        possesses an interval of time, just like in the following: <foreign
+                           xml:lang="grc">ὡς ἔφαθ' αι δ' ἐπέμυξαν</foreign> (Iliad 4.20). <foreign
+                           xml:lang="grc">ὡς εφαθ’ οὐδ' ἀπίθησεν</foreign> (Iliad 2.166). The other
+                        reason is because it comes together at the beginning of the line after only
+                        the letter nu there is an interval of punctuation.</p>
+                  </div>
+               </div>
+               <div n="154" type="scholion">
+                  <div type="lemma">
+                     <p>all the way from the ships:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.213</p>
+                  </div>
+                  <div type="comment">
+                     <p>There ought to be a short pause after the <foreign xml:lang="grc"
+                           >νηων</foreign>, because it makes the idea expressed in <foreign
+                           xml:lang="grc">ὅσον</foreign> more clear. The trench is set away from the
+                        walls and the ships, the multitude was composed of footsoldiers and horses,
+                        leaving out the conjunction <foreign xml:lang="grc">και</foreign>. Because
+                        the <foreign xml:lang="grc">ἔεργεν</foreign> indicates a separation between
+                        the ships and the walls. The empty space in between was for a passage way.
+                        The space was broad and wide in the beginning, and long through the whole
+                        stream to the end. But again in this way, outside of the walls there was a
+                        short gap, after which the trench was dug which that gap was of such a size
+                        of one missile and the things on it are thrown from the ones attacking it.
+                        Indeed there were spaces on each side of the walls: One filled up the space
+                        before the trench, and the other before the ships. Nicanor says
+                        likewise.</p>
+                  </div>
+               </div>
+               <div n="180" type="scholion">
+                  <div type="lemma">
+                     <p>diviner:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.250</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because <foreign xml:lang="grc">πανομφαιος</foreign>
+                        (diviner) <foreign xml:lang="grc">ὁ κληδωνιος</foreign> (receiver of omens)
+                        and <foreign xml:lang="grc">πάσης κληδῶνος παραίτιος</foreign> (the causer
+                        of all received omens) are not generally an epithet and because the epithet
+                        here is a hapax. </p>
+                  </div>
+               </div>
+               <div n="183" type="scholion">
+                  <div type="lemma">
+                     <p>he would peer around:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.269-8.270</p>
+                  </div>
+                  <div type="comment">
+                     <p>There ought to be a short pause after <foreign xml:lang="grc"
+                           >παπτηνας</foreign>. But it ought to be punctuated on the
+                        corresponding/answering <foreign xml:lang="grc">βεβληκει</foreign>.</p>
+                  </div>
+               </div>
+               <div n="241" type="scholion">
+                  <div type="lemma">
+                     <p>She kissed his knees:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.371-8.372</p>
+                  </div>
+                  <div type="comment">
+                     <p>The two lines are athetized because it is not necessary to describe in
+                        detail piece by piece the things to the one who already knows it well. And
+                        indeed we do not narrate further something superfluous.</p>
+                  </div>
+               </div>
+               <div n="236" type="scholion">
+                  <div type="lemma">
+                     <p>tolerably:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.355</p>
+                  </div>
+                  <div type="comment">
+                     <p>Like <foreign xml:lang="grc">ανδρικως</foreign> Aristarchus pronounces it
+                        with a circumflex, but it is said by us, regarding pronunciation, because we
+                        make a distinction regarding the [the use of the word in] <foreign
+                           xml:lang="grc">ῆ δὴ λοίγια ἔργα τάδ' ἔσσεται οὐκέτ' ἀνεκτά</foreign>
+                        (Iliad 1.573) </p>
+                  </div>
+               </div>
+               <div n="250" type="scholion">
+                  <div type="lemma">
+                     <p>Let fall her soft robe:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.385-8.387</p>
+                  </div>
+                  <div type="comment">
+                     <p>The three are athetized because during the aristea of Diomedes it is well
+                        brought out to completion. Because she does something. But here for no
+                        reason she puts on her armor. But Aristophanes also athetizes them, and
+                        Zenodotus does not write them.</p>
+                  </div>
+               </div>
+               <div n="271" type="scholion">
+                  <div type="lemma">
+                     <p>against the wall, shining</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.435</p>
+                  </div>
+                  <div type="comment">
+                     <p>There ought to be a short pause after the <foreign xml:lang="grc">προς
+                           ενώπια</foreign> so that the chariots are brightly shining. but one must
+                        see that <foreign xml:lang="grc">ἅρματα</foreign> means the chariots
+                           (<foreign xml:lang="grc">οχηματα</foreign>). </p>
+                  </div>
+               </div>
+               <div n="275" type="scholion">
+                  <div type="lemma">
+                     <p>beneath a cloth:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.441</p>
+                  </div>
+                  <div type="comment">
+                     <p>After it is formed thence it is accented with a grave. Since each accusative
+                        singular ending in alpha is accented with a grave with something unmodified
+                        having been removed, because of the well-ordered double nature and things of
+                        this sort. But below he is covering and concealing with a simple cover.</p>
+                  </div>
+               </div>
+               <div n="269" type="scholion">
+                  <div type="lemma">
+                     <p>Let one of them perish:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.429</p>
+                  </div>
+                  <div type="comment">
+                     <p>Whenever he [the poet] is looking at the reputation of the gods, then he
+                        says they would not be moved by anything concerning mortals. Just as we
+                        would not be moved concerning ants. But whenever he considers poetry, he
+                        follows the stories and makes the subject famous: bringing about alliances
+                        and wars among gods.</p>
+                  </div>
+               </div>
+               <div n="293" type="scholion">
+                  <div type="lemma">
+                     <p>in the grimmest stress:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.475-8.476</p>
+                  </div>
+                  <div type="comment">
+                     <p>The two lines are athetized because through <foreign xml:lang="grc">ἥματι
+                           τῷ</foreign> it indicates a postponement of more time, but in the
+                        following lines, he brings forward Achilles to the ditch and he stands up to
+                        argue precisely not when he will stand up for some most opportune moment.
+                        But he holds off "until the swift footed son of Peleus is risen up next to
+                        the ships" (Il. 8.474). And he holds some imposed falsehood, not because
+                        they fight in great distress. But he is accustomed to say <foreign
+                           xml:lang="grc">στείνει</foreign> for a narrow road. But it is called a
+                        confined space by most people. But he says <foreign xml:lang="grc"
+                           >αινωτατω</foreign> for a place that is difficult because of fear.</p>
+                  </div>
+               </div>
+               <div n="311" type="scholion">
+                  <div type="lemma">
+                     <p>Hector:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.493</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because Zenodotus rejects from these lines down to the
+                        following four, because they are both written in another place. But
+                        Aristarchus says that they remain more appropriately here because of the
+                        discussion in the expedition.</p>
+                  </div>
+               </div>
+               <div n="325" type="scholion">
+                  <div type="lemma">
+                     <p>I pray having hoped:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.526</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because Zenodotus writes <foreign xml:lang="grc">ἔλπομαι
+                           εὐχόμενος</foreign>. He does not say Hector is lifted up thusly, I feel
+                        hope praying to the gods. Because the opposite is suitable and appropriate,
+                        "I pray, feeling hope." I speak aloud being made hopeful by Zeus and the
+                        other gods.</p>
+                  </div>
+               </div>
+               <div n="340" type="scholion">
+                  <div type="lemma">
+                     <p>Tomorrow, which [will see] his excellence: </p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.535-8.537</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because it is necessary to keep these three lines, on
+                        which he places an anti sigma. Or the following three, on which the stigma
+                        are placed. Because they explain what the meaning is. But Aristarchus rather
+                        accepts as genuine the second three because the words are more loudly
+                        boastful. But Zenodotus accepts as genuine the first three and he does not
+                        write the second three. But regarding these lines Didymus says the same
+                        things, as does Aristonicus, for which reasons we did not write the things
+                        of Didymus.</p>
+                  </div>
+               </div>
+               <div n="81" type="scholion">
+                  <div type="lemma">
+                     <p>So he spoke, but he did not hear/listen:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.97</p>
+                  </div>
+                  <div type="comment">
+                     <p>Regarding the ambiguity, whether he [Odysseus] did not generally perceive
+                        his [Diomedes’] voice on account of clamor, or having heard him he passed
+                        along, which is how Aristarchus takes it.</p>
+                  </div>
+               </div>
+               <div n="82" type="scholion">
+                  <div type="lemma">
+                     <p>He did not hear/listen,</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.97</p>
+                  </div>
+                  <div type="comment">
+                     <p><foreign xml:lang="grc">οὐδὲ ἤκουσεν</foreign> It is interpreted whether he
+                        [Odysseus] generally did perceive his [Diomedes’] voice on account of
+                        clamor, or having heard him he passed along, which is how Aristarchus takes
+                        it</p>
+                  </div>
+               </div>
+               <div n="83" type="scholion">
+                  <div type="lemma">
+                     <p>He did not hear/listen</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.97</p>
+                  </div>
+                  <div type="comment">
+                     <p><foreign xml:lang="grc">οὐδὲ ἤκουσεν</foreign> It is interpreted whether
+                        Odysseus did not wholly hear, or whether he was not persuaded. They charge
+                        the hero with cowardice, ignoring the <foreign xml:lang="grc">οὐδ’ ἐσάκουσεν</foreign>. For it is not “not
+                        listening.” But rather it is a lack of perfect perception, and because he is
+                        not a coward since he flees last of all the other men and because of his
+                        slowness he is a specimen of a man who loves danger.</p>
+                  </div>
+               </div>
+               <div n="152" type="scholion">
+                  <div type="lemma">
+                     <p>The trench encloses the space all the way from the ships to the tower:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.213</p>
+                  </div>
+                  <div type="comment">
+                     <p> The Aristarcheans have it two ways: <foreign xml:lang="grc">ἔεργε</foreign>
+                        and <foreign xml:lang="grc">ἔρυκε</foreign>. And it on both sides indicated
+                        is such of the Achaeans, the trench divides all the way from the wall and is
+                        full equally with horses and men driven together and shut in together by
+                        Hector. Zenodotus writes <note resp="HMT">The scribe has accidentally
+                           repeated a large portion of the text. The repeated text has been left out
+                           of the translation for clarity.</note>
+                        <foreign xml:lang="grc">τῶν δ’ ὅσων ἐν νηῶν καὶ πύργου</foreign> (all the
+                        way to the ships and the tower). But some say that the two spaces are full
+                        of Greeks and from the ships until the wall and from the wall until the
+                        ditch, which indeed he calls a narrow space (<foreign xml:lang="grc"
+                           >στεῖνος</foreign>). </p>
+                  </div>
+               </div>
+               <div n="233" type="scholion">
+                  <div type="lemma">
+                     <p>Having the eyes of the Gorgon:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.349</p>
+                  </div>
+                  <div type="comment">
+                     <p>Zenodotus writes <foreign xml:lang="grc">Γοργονος ὄμματ’ ἔχων ἠὲ βροτολοιγοῦ
+                           Ἄρηος</foreign> but Homer writes it without the nu <foreign
+                           xml:lang="grc">τῇ δ ἐπο μὲν Γοργῷ</foreign> (Il. 11.36) like <foreign
+                           xml:lang="grc">Σαπφώ</foreign>. On which account he writes <foreign
+                           xml:lang="grc">Γοργοῦς</foreign> like <foreign xml:lang="grc"
+                           >Σαπφοῦς</foreign>. But Aristarchus writes it with the iota <foreign
+                           xml:lang="grc">οἴμματ’ ἔχων</foreign> and they say beside the path they
+                        become roads and impulses. However, most texts have the demotic version:
+                           <foreign xml:lang="grc">Γοργοῦς ὅμματ’ ἔχων</foreign> which should be
+                        understood also with what is said elsewhere namely: <foreign xml:lang="grc"
+                           >τῇ δ’ ἐπι μὲν Γοργος βλωσυρωτης</foreign> (Il. 11.36) Indeed it is
+                        difficult to say something certain. </p>
+                  </div>
+               </div>
+               <div n="248" type="scholion">
+                  <div type="lemma">
+                     <p>He shinning will rejoice:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.378</p>
+                  </div>
+                  <div type="comment">
+                     <p>Aristarchus has <foreign xml:lang="grc">προφανέντες</foreign> similar to
+                           <foreign xml:lang="grc">πληγέντε κεραυνῷ</foreign> in the dual. But
+                        Zenodotus has <foreign xml:lang="grc">γηθήσει προφανεῖσας ἰδὼν ἐς δοῦπον
+                           ἀκόντων</foreign> contracting the ending with an acute accent on the
+                        penult pronouncing with the alpha extended. And it is pure Dorian and a
+                        rarity in something of this sort in the works of the poet.</p>
+                  </div>
+               </div>
+               <div n="169" type="scholion">
+                  <div type="lemma">
+                     <p>Hector who soon:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.235</p>
+                  </div>
+                  <div type="comment">
+                     <p>They say that Aristarchus would be less reproachful [of this line], if
+                        indeed it had been written as follows: <foreign xml:lang="grc">Εκτορος ὃ δὴ
+                           κῦδος Ὀλύμπιος αὐτὸς ὀπάζει</foreign>. But it has been athetized also in
+                        the text of Aristophanes. </p>
+                  </div>
+               </div>
+               <div n="199" type="scholion">
+                  <div type="lemma">
+                     <p>From that moment waiting with bows:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.296</p>
+                  </div>
+                  <div type="comment">
+                     <p>Thus the Aristarcheans have <foreign xml:lang="grc">δεδεγμένος</foreign>
+                        with a gamma. The Herodians have <foreign xml:lang="grc"
+                           >δεδεχμένος</foreign> with a chi. And Diogenes says in the commentaries,
+                        that he writes <foreign xml:lang="grc">εἰρωνευόμενος</foreign> something
+                        like <foreign xml:lang="grc">δεξιούμενος τοῖς τόξοις</foreign>. Because
+                           <foreign xml:lang="grc">δεδέχεσθαι</foreign> is to welcome not without
+                        charm or explanation.</p>
+                  </div>
+               </div>
+               <div n="274" type="scholion">
+                  <div type="lemma">
+                     <p>The chariot on a stand:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.441</p>
+                  </div>
+                  <div type="comment">
+                     <p>Chrysippus pronounces it as one word. Yet Aristarchus has it as two parts of
+                        speech and accents it with a circumflex on the penult. Indeed he writes it
+                        elsewhere as <foreign xml:lang="grc">χρύσειοι δ’ ἄρα κοῦροι ἐϋδμήτων ἐπι
+                           βωμῶν</foreign> (Od. 7.100). Indeed it is necessary to recognize that it
+                        is written with a mu. As it is similarly separated into two words in
+                           <foreign xml:lang="grc">ἀμ φόνον ᾶν νέκυας</foreign> (Il. 10.298). And
+                        the reason is explained in the Treatises Regarding Orthography
+                        (2.408.20).</p>
+                  </div>
+               </div>
+               <div n="321" type="scholion">
+                  <div type="lemma">
+                     <p>But so that some certain missile:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.513</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because he said the weapon to indicate the wound, it being
+                        a homonym for wounding. The texts of Aristophanes have <foreign
+                           xml:lang="grc">πέσσοι</foreign>. And Parmeniscus in Book One of Regarding
+                        Dominance, like the Aristarchean text, has <foreign xml:lang="grc">ἀλλ ὥς
+                           τις κείνων γε</foreign></p>
+                  </div>
+               </div>
+               <div n="326" type="scholion">
+                  <div type="lemma">
+                     <p>Urged on the Fates:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.527</p>
+                  </div>
+                  <div type="comment">
+                     <p>Aristarchus read it well as a compound, and the majority likewise also when
+                        he resolves it into its elements it: <foreign xml:lang="grc">οὒς κῆρες
+                           φορέουσιν</foreign> (Il. 8.528). Because it is customary for him to
+                        resolve the compound often. But never lengthening out the syllable in the
+                        dative, at the beginning it is compounded like <foreign xml:lang="grc"
+                           >πασι</foreign> and <foreign xml:lang="grc">πάντεσσι</foreign> in
+                           <foreign xml:lang="grc">παειμέλουσα</foreign> (Od. 12.70). The compound
+                        is not only derived from from <foreign xml:lang="grc">πάντεσσι</foreign>,
+                        [for example] <foreign xml:lang="grc">Ναυσικάα</foreign>
+                        <foreign xml:lang="grc">Ναυσίθοος</foreign>, <foreign xml:lang="grc"
+                           >ἐγχεσίμοροι</foreign>
+                        <foreign xml:lang="grc">τειχεσιπλήτης</foreign>. I placed it at the
+                        beginning, according to the [argument] from Epicharmos, and I compound it at
+                        the end like <foreign xml:lang="grc">γυναικ’ ἄνδρεσσι ποθεινοί</foreign>.
+                        Indeed if that is true it is clear that is is contrary to the rule. The
+                           <foreign xml:lang="grc">κηρεσσιφορήτους</foreign> must be read as a
+                        compound, but nevertheless the Aristarchean text is the authority
+                        according which logic we say it.</p>
+                  </div>
+               </div>
+               <div n="227" type="scholion">
+                  <div type="lemma">
+                     <p>Hector among the frontlines:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.337</p>
+                  </div>
+                  <div type="comment">
+                     <p>The texts of Aristarchus have it without the nu and it is: <foreign
+                           xml:lang="grc">Ἕκτωρ δὲ πρώτοισι</foreign>. Hector was hastening on at
+                        the front lines.</p>
+                  </div>
+               </div>
+               <div n="259" type="scholion">
+                  <div type="lemma">
+                     <p>They shall thoroughly heal the wounds:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.405</p>
+                  </div>
+                  <div type="comment">
+                     <p>In the other [text] of Aristarchus it is <foreign xml:lang="grc">ἕλκε
+                           ἀπαλθήσονται</foreign> and there never is the superior form: <foreign
+                           xml:lang="grc">ἕλκη ἀπαλθήσονται</foreign>. </p>
+                  </div>
+               </div>
+               <div n="47" type="scholion">
+                  <div type="lemma">
+                     <p>smaller:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.56</p>
+                  </div>
+                  <div type="comment">
+                     <p>The sign is there because he [the poet] always says the Trojans with their
+                        allies are a smaller group. And the repetition with respect to those
+                        athetized lines, for example <foreign xml:lang="grc">πολλεων ἐκ πολίων
+                           ἐχξέσπαλοι ἄνδρες</foreign> (Il. 2.131) and the things written in
+                        Zenodotus <foreign xml:lang="grc">μυρία δ’ ἐν πεδίω</foreign>.</p>
+                  </div>
+               </div>
+               <div n="196" type="scholion">
+                  <div type="lemma">
+                     <p>and indeed you being a bastard:</p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.284</p>
+                  </div>
+                  <div type="comment">
+                     <p>In Zenodotos, the line was not there. And it is athetized in Aristophanes
+                        because the family history is inappropriate and does not suit an exhortation
+                        but rather is a reproach and a dissuasion [from action]. </p>
+                  </div>
+               </div>
+               <div n="346" type="scholion">
+                  <div type="lemma">
+                     <p>From which everything is seen: </p>
+                  </div>
+                  <div type="ref">
+                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.557</p>
+                  </div>
+                  <div type="comment">
+                     <p>The line is athetized because it is rather similar to the looking down on
+                        Patroclus. And what follows is athetized along with it because he wishes to
+                        stand there suddenly illuminated, so that Patroclus may be viewed suddenly.
+                        But there the stillness is stretched out for tranquility. It is not
+                        transmitted in Zenodotus's text. And Aristophanes also athetized it.</p>
+                  </div>
+               </div>
+
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>

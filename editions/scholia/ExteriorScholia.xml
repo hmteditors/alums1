@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Exterior Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>Stephanie Lindeborg</author>
+                <author>Becky Musgrave</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -15,18 +16,157 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="12">
-            <text n="msAext">
+        <group n="8">
+            <text
+                n="msAext">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.??" type="scholion">
-                        <div type="lemma">
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.1000"
+                        type="scholion">
+                        <div
+                            type="lemma">
                             <p/>
                         </div>
-                        <div type="ref">
-                            <p></p>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.70</p>
                         </div>
-                        <div type="comment">
-                            <p></p>
+                        <div
+                            type="comment">
+                            <p>ἐν δ᾽</p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.95"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.114</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ἴφθιμοι </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.1001"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.217</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><w><unclear>π</unclear>υρι</w> κηλέῳ</p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.221"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.322</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ανωγει· ἄνωγεν· </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.2000"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.315</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><note
+                                resp="HMT">This appears to be a reinserted line. It is noted with the
+                                numeral 2 and line 8.314 in the main text is noted with the numeral
+                                1.</note><num
+                                    value="2">β</num> ὠ κύποδες· τοῦ δ᾽ αὖθι λύθη ψυχή τε μένος τε· </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.2001"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.410</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p><num
+                                value="2">Β</num> βῆ δὲ κατ᾽ <placeName n="urn:cite:hmt:place.place89">Ἰδαίων</placeName> ὀρέων ἐς μακρὸν <placeName n="urn:cite:hmt:place.place45">Ὄλυμπον</placeName>· </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.338"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.519</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>περι ἄστυ </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.352"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.530</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>ὑπηοῖοι </p>
+                        </div>
+                    </div>
+                    <div
+                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.353"
+                        type="scholion">
+                        <div
+                            type="lemma">
+                            <p/>
+                        </div>
+                        <div
+                            type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.538</p>
+                        </div>
+                        <div
+                            type="comment">
+                            <p>αἲ γαρ εῖ </p>
                         </div>
                     </div>
                 </body>
