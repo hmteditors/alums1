@@ -1,2 +1,5 @@
 Text,Image,Folio
-urn:cts:greekLit:tlg5026.msA.hmt:12.A1,"",
+urn:cts:greekLit:tlg5026.msA.hmt:12.A1,"urn:cite:hmt:vaimg.VA162VN-0664@0.23,0.2277,0.2014,0.0335",urn:cite:hmt:msA.162v
+urn:cts:greekLit:tlg5026.msA.hmt:12.A2,"urn:cite:hmt:vaimg.VA162VN-0664@0.2332,0.2601,0.1921,0.0367",urn:cite:hmt:msA.162v
+urn:cts:greekLit:tlg5026.msA.hmt:12.A3,"urn:cite:hmt:vaimg.VA162VN-0664@0.2273,0.4633,0.2093,0.0406",urn:cite:hmt:msA.162v
+urn:cts:greekLit:tlg5026.msA.hmt:12.A4,"urn:cite:hmt:vaimg.VA162VN-0664@0.2271,0.6247,0.1982,0.068",urn:cite:hmt:msA.162v
