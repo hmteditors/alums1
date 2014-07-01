@@ -34,35 +34,43 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f2" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>χάζετ' ἐπει οἱ θυμὸς ἐέλπετο.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.407</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὕτως δια τοῦ <rs type="waw">π</rs>
+                                <q>ἐέλπετο</q> αἱ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχου</persName> οὐχι δὲ δια τοῦ <rs type="waw">α</rs>
+                                <q>ἐέλδετο</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f3" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡τείχεος ἔντοσθεν</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.416</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸ σημαινόμενόν ἐστιν μέγα ἤδη αὐτοῖς ἐνεδείκνυτο τῆς μάχης ἔργον
+                                οὐ κατα τα διάνοιαν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f4" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἀσπίδας εὐκύκλους,</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.426</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πρὸς τὸ <q>λαισήϊα</q> ὅτι οἱ μὲν κατὰ ἀντιπαράθεσιν τῶν εὐκύκλων
+                                παραμήκεις τὰ λαισήϊα· οἱ δὲ <choice>
+                                    <sic>ἐλαφρά</sic>
+                                    <corr>ἐλαφρὰ</corr>
+                                </choice>· ἔνιοι δὲ δασέα ἐξ αδεψήτων βυρσῶν ⁑</p>
                         </div>
                     </div>
 
