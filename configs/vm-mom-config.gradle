@@ -1,14 +1,14 @@
 project.ext {
 
-  textInventory="${DIR}editions/inventory.xml"
-  textArchive="${DIR}editions"
+  textInventory="PATHeditions/inventory.xml"
+  textArchive="PATHeditions"
 
     // Lists of index files to use in verification:
-    folioToImage = "${DIR}indices/venA-folioToImage.csv"
+    folioToImage = "PATHindices/venA-folioToImage.csv"
 
-    textToImage = "${DIR}indices/venA-textToImage-Iliad.csv"
-    textToFolio = "${DIR}indices/venA-textToFolio-Iliad.csv"
+    textToImage = "PATHindices/venA-textToImage-Iliad.csv"
+    textToFolio = "PATHindices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "${DIR}collections/venA-exterior.csv,${DIR}collections/venA-intermarginal.csv,${DIR}collections/venA-interior.csv,${DIR}collections/venA-mainScholia.csv,${DIR}collections/venA-interlinear.csv"
+    scholiaInventories = "PATHcollections/venA-exterior.csv,PATHcollections/venA-intermarginal.csv,PATHcollections/venA-interior.csv,PATHcollections/venA-mainScholia.csv,PATHcollections/venA-interlinear.csv"
     
 }
