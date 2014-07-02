@@ -13,9 +13,11 @@ echo Verifying from configuration in ${CONF}
 
 cd /vagrant/hmt-mom
 
+echo Using MOM clone in `pwd`
 echo "Cleaning previous HMT MOM results..."
 gradle clean
 
-echo Beginning verification for folio $1
+echo Beginning verification for folio $1 using CONF in $CONF
 
-gradle -Pfolio=$1 -Pconf=${CONF}
+gradle -Pfolio=$1 -Pconf=${CONF} dse
+
