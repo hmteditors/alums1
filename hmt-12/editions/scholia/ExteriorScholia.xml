@@ -129,7 +129,18 @@
                     <!-- team C -->
                     <!-- team D -->
                     <!-- team E -->
-                    
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.E2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.X</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὢ</p>
+                        </div>
+                        
+                    </div>
                     <!-- team F -->
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.??" type="scholion">
                         <div type="lemma">
