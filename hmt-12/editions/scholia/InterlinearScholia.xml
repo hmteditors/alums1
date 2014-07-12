@@ -720,7 +720,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.89@ἀπήμων</p>
                         </div>
                         <div type="comment">
-                            <p>αλυπ<choice>
+                            <p><choice>
                                 <abbr>αλυπ</abbr>
                                 <expan>ἄλυπον</expan>
                             </choice></p>
@@ -775,7 +775,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.304</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.304@ἀπείρητος</p>
                         </div>
                         <div type="comment">
                             <p>άνευ ἐπιβουλἠς άπειρος</p>
@@ -786,10 +786,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:304</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:304@μέμονε</p>
                         </div>
                         <div type="comment">
-                            <p>προθυμειτ<choice><abbr>προθυμειτ</abbr><expan>προθυμεῖται</expan></choice></p>
+                            <p><choice><abbr>προθυμειτ</abbr><expan>προθυμεῖται</expan></choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.D10" type="scholion">
@@ -797,7 +797,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:304</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:304@δίεσθαι</p>
                         </div>
                         <div type="comment">
                             <p>διελθ <choice><abbr>διελθ</abbr><expan>διελθεῖν</expan></choice> διωχθῆναι </p>
@@ -808,7 +808,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:305</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:305@μετάλμενος</p>
                         </div>
                         <div type="comment">
                             <p>ἐπιζητων</p>
@@ -819,7 +819,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:311</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:311@ἕδρῃ</p>
                         </div>
                         <div type="comment">
                             <p>προεδρίαι τιμή</p>
@@ -830,10 +830,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:314</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:314@φυταλιῆς</p>
                         </div>
                         <div type="comment">
-                            <p>αμπελοφυτ<choice><abbr>αμπελοφυτ</abbr><expan>ἀμπελοφύτου</expan></choice> γῆς</p>
+                            <p><choice><abbr>αμπελοφυτ</abbr><expan>ἀμπελοφύτου</expan></choice> γῆς</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.D14" type="scholion">
@@ -841,10 +841,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:314</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:314@πυροφόροιο</p>
                         </div>
                         <div type="comment">
-                            <p>σιτ<gap unit= "letters" extent= "3"/> φόρου</p>
+                            <p><w>σιτ<gap unit= "letters" extent= "3"/>φόρου</w></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.D15" type="scholion">
@@ -852,7 +852,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:316</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:316@καυστείρης</p>
                         </div>
                         <div type="comment">
                             <p><w>εμπυρ<unclear>ου</unclear></w> θερμῆς</p>
@@ -863,7 +863,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:317</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:317@πύκα θωρηκτάων</p>
                         </div>
                         <div type="comment">
                             <p><w>επιμ<unclear>h</unclear>λῶς</w> τεθωρακισμένων</p>
@@ -874,7 +874,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:318</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:318@ἀκληεῖς</p>
                         </div>
                         <div type="comment">
                             <p>ἄδοξοι</p>
@@ -885,7 +885,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:320</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:320@ἴς</p>
                         </div>
                         <div type="comment">
                             <p>δύναμις</p>
