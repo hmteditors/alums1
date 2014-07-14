@@ -13,7 +13,24 @@
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA">
                 <label xml:lang="eng"> A </label>
                 <description xml:lang="eng"> Iliad text of the Venetus A manuscript, Marciana 454 (=822). </description>
-                <online docname="iliad/VenetusA-Iliad-12.xml">
+                <online docname="iliad/VenetusA-Iliad.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+            
+            
+            
+            <edition urn="urn:cts:greekLit:tlg0012.tlg001.e3">
+                <label xml:lang="eng"> E3 </label>
+                <description xml:lang="eng"> Iliad text of the Escorial Upsilon 1.1 manuscript. </description>
+                <online docname="iliad/Esc-Upsilon-1-1-Iliad-8.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
