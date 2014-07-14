@@ -1,14 +1,14 @@
 project.ext {
 
-  textInventory="PATHeditions/inventory.xml"
-  textArchive="PATHeditions"
+  textInventory="/vagrant/alums1/editions/inventory.xml"
+  textArchive="/vagrant/alums1/editions"
 
     // Lists of index files to use in verification:
-    folioToImage = "PATHindices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/alums1/indices/venA-folioToImage.csv"
 
-    textToImage = "PATHindices/venA-textToImage-Iliad.csv"
-    textToFolio = "PATHindices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/alums1/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/alums1/indices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "PATHcollections/venA-exterior.csv,PATHcollections/venA-intermarginal.csv,PATHcollections/venA-interior.csv,PATHcollections/venA-mainScholia.csv,PATHcollections/venA-interlinear.csv"
+    scholiaInventories = "/vagrant/alums1/collections/venA-exterior.csv,/vagrant/alums1/collections/venA-intermarginal.csv,/vagrant/alums1/collections/venA-interior.csv,/vagrant/alums1/collections/venA-mainScholia.csv,/vagrant/alums1/collections/venA-interlinear.csv"
     
 }
