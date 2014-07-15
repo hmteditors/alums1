@@ -85,23 +85,7 @@
                         </div>
                     </div>
                     
-                    <div
-                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.2001"
-                        type="scholion">
-                        <div
-                            type="lemma">
-                            <p/>
-                        </div>
-                        <div
-                            type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.410</p>
-                        </div>
-                        <div
-                            type="comment">
-                            <p><num
-                                value="2">Β</num> βῆ δὲ κατ᾽ <placeName n="urn:cite:hmt:place.place89">Ἰδαίων</placeName> ὀρέων ἐς μακρὸν <placeName n="urn:cite:hmt:place.place45">Ὄλυμπον</placeName>· </p>
-                        </div>
-                    </div>
+                    
                     <div
                         n="urn:cts:greekLit:tlg5026.msAext.hmt:8.338"
                         type="scholion">
