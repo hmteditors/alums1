@@ -84,26 +84,7 @@
                             <p>ανωγει· ἄνωγεν· </p>
                         </div>
                     </div>
-                    <div
-                        n="urn:cts:greekLit:tlg5026.msAext.hmt:8.2000"
-                        type="scholion">
-                        <div
-                            type="lemma">
-                            <p/>
-                        </div>
-                        <div
-                            type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.315</p>
-                        </div>
-                        <div
-                            type="comment">
-                            <p><note
-                                resp="HMT">This appears to be a reinserted line. It is noted with the
-                                numeral 2 and line 8.314 in the main text is noted with the numeral
-                                1.</note><num
-                                    value="2">β</num> ὠ κύποδες· τοῦ δ᾽ αὖθι λύθη ψυχή τε μένος τε· </p>
-                        </div>
-                    </div>
+                    
                     <div
                         n="urn:cts:greekLit:tlg5026.msAext.hmt:8.2001"
                         type="scholion">
