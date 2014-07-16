@@ -524,7 +524,7 @@
                   </div>
                   <div
                      type="comment">
-                     <p>τὸ <persName>Ἀμοπάονα</persName> ἐν ενὶ <choice>
+                     <p>τὸ <persName n="urn:cite:hmt:pers.pers613">Ἀμοπάονα</persName> ἐν ενὶ <choice>
                            <abbr>με</abbr>
                            <expan>μερει</expan>
                         </choice> λόγου αναγνωστέον κύριον γὰρ ⁑</p>
@@ -692,7 +692,7 @@
                   </div>
                   <div
                      type="comment">
-                     <p>εν τοῖς <persName>Διογένους</persName>
+                     <p>εν τοῖς <persName n="urn:cite:hmt:pers.pers615">Διογένους</persName>
                         <q>αμβωνεσσι</q>: </p>
                   </div>
                </div>
