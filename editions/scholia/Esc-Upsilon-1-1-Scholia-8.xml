@@ -682,14 +682,14 @@ style simple scholia" alternate="no"?>
                      <p><persName n="pers135">Μῆτιν</persName> τὴν <persName n="pers123"
                            >Ὠκεανοῦ</persName> ὥς φασι· εἰς πολλὰ τὴν μορφὴν ἀμείβουσαν βουλόμενος ὁ
                            <persName n="pers8">Ζεὺς</persName> παρ᾽ ἑαυτῷ ἔχειν, κατέπιεν ἔγκυον
-                        οὖσαν ὑπὸ <persName n="pers632"><w>Βρ<add place="supralinear"
+                        οὖσαν ὑπὸ <persName ><w>Βρ<add place="supralinear"
                               >όν</add>του</w></persName> τοῦ Κύκλωπος. τελεσφορηθείσης δὲ τῆς
                         παιδὸς. ὁ <persName n="pers8">Ζεὺς</persName> διὰ τῆς κεφαλῆς τεκὼν. δίδωσι
                         τῷ <placeName n="place194">Τρίτωνι</placeName> τῷ ποταμῷ τρέφειν· ὅθεν
                            <persName n="pers67">Τριτογένεια</persName> ἐκλήθη ὡς ἐκ τριῶν
-                        συναυξηθεῖσα· <persName n="pers632">Βρόντου</persName>· <persName n="pers8"
-                           >Διὸς</persName>· <placeName n="place194">Τρίτωνος</placeName>· <persName
-                           n="pers634">Δημόκριτος</persName>
+                        συναυξηθεῖσα· <persName>Βρόντου</persName>· <persName n="pers8"
+                           >Διὸς</persName>· <placeName>Τρίτωνος</placeName>· <persName
+                           >Δημόκριτος</persName>
                         <note resp="Erbse">Vors.6 68 B 2</note> δὲ ἐτυμολογῶν τὸ ὄνομά. φησιν. ὅτι
                         φρόνησις ἐστὶν. ἀφ᾽ ἧς τρία συμβαίνει ἀπογεννᾶσθαι ἀγαθά. εὖ λογίζεσθαι·
                         λέγειν καλῶς· πράττειν ἃ δεῖ· ἢ ὅτι φθίνοντος ἐτέχθη· καὶ παροιμία· <note
@@ -774,13 +774,13 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p>ἐν ὑπερβατῷ· οἷον <rs type="waw"><placeName n="place89">Ἴδην</placeName>
-                           <placeName n="place204">Γάργαρον</placeName></rs>· ἀντὶ τοῦ <rs
-                           type="waw">ἐς <placeName n="place204">Γάργαρον</placeName>
+                           <placeName>Γάργαρον</placeName></rs>· ἀντὶ τοῦ <rs
+                           type="waw">ἐς <placeName>Γάργαρον</placeName>
                            <placeName n="place89">Ἴδης</placeName></rs>· ὡς τὸ “<cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.362-8.363</ref>
                            <q>ἣ δ᾽ ἄρα <placeName n="place98">Κύπρον</placeName> ἵκανε ἐς <placeName
                                  n="place216">Πάφον</placeName></q>
-                        </cit>· ἔστι δὲ καὶ <placeName n="place204">Γάργαρος</placeName> πόλις·
+                        </cit>· ἔστι δὲ καὶ <placeName>Γάργαρος</placeName> πόλις·
                         ἁρμόδιον δὲ τῷ οἴρει τὸ μητέρα θηρῶν· λέγεται γὰρ ὄφεις ἐνεγκεῖν· οἳ τῷ
                         μέγεθει τοὺς ἐλάφους ἀναιροῦσιν εἰλοῦμενοι περὶ τὰ σκέλη καὶ τοὺς αὐχένας·
                         καὶ τοῖς δένδροις προσαρῶντες αὐτοὺς. καὶ οὕτω διαφθείροντες⁑</p>
@@ -935,7 +935,7 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p>ὅμοιόν ἐστι τῷ <cit>
                            <ref type="urn">cts:greekLit:tlg0012.tlg002:13.109-13.110</ref>
-                           <q>δύω δέ τε θύραι εἰσὶ. αἱ μὲ`ν πρὸς <persName n="pers471"
+                           <q>δύω δέ τε θύραι εἰσὶ. αἱ μὲ`ν πρὸς <persName 
                                  >Βορέαο</persName> καταιβαταὶ <choice>
                                  <abbr>ἀνοισιν</abbr>
                                  <expan>ἀνθρώποισιν</expan>
@@ -1198,7 +1198,7 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p>ἠθικῶς τὸν χθὲς ἀνάγει χρόνον· ὡς καὶ ἐν <ref
                            type="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσείᾳ</title></ref>
-                        <persName n="pers635">Φιλοίτιος</persName>· <cit>
+                        <persName>Φιλοίτιος</persName>· <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:22.290-22.291</ref>
                            <q>τοῦτό σοι ἀντὶ ποδὸς ξεινήϊον ὅν ποτ᾽ ἔδωκας ἀντιθέῳ ὀδυσσῆϊ</q>
                         </cit>· ἅμα δὲ καὶ θαρσαλεώτερον ποιεῖ τὸν γέροντα. ἡ <persName n="pers142"
@@ -1291,7 +1291,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.120</p>
                   </div>
                   <div type="comment">
-                     <p>υἱὸς <persName n="pers590">Θηβαίου</persName>. οὐ τῷ γένει· κύριον γάρ ἐστιν
+                     <p>υἱὸς <persName>Θηβαίου</persName>. οὐ τῷ γένει· κύριον γάρ ἐστιν
                         ὄνομα ὡς καὶ ἐν <ref type="urn:cts:greekLit:tlg0012.tlg002"
                               ><title>Ὀδυσσεία</title></ref> ὁ <title>Αἰγύπτιος</title>⁑</p>
                   </div>
@@ -1572,7 +1572,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.163</p>
                   </div>
                   <div type="comment">
-                     <p>διὰ τοῦ <rs type="waw">ι</rs> εἶχον αἱ ἐκδόσεις· ὁ δὲ <persName n="pers75"
+                     <p>διὰ τοῦ <rs type="waw">ι</rs> εἶχον αἱ ἐκδόσεις· ὁ δὲ <persName 
                            >Ἡρωδιανὸς</persName> διὰ τοῦ <rs type="waw">ε</rs> ἐξέθετο· ἔστι δὲ τὸ
                         ὅλον οὕτως <q>γυναικὸς ἄρα ἴσος ἦσθα</q>⁑</p>
                   </div>
@@ -1708,15 +1708,15 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p>ἀθετεῖται ὁ στίχος πρῶτον γε καὶ διὰ τὸ σὺ. εἶτα διὰ τὰ ὀνόματα· <persName
-                           n="pers636">Λάμπος</persName> γὰρ τῆς <persName n="pers588"
+                           >Λάμπος</persName> γὰρ τῆς <persName 
                            >Ἠοῦς</persName> ἐστὶν ἵππος· <note resp="Erbse"> cf. ψ 246 </note>
-                        <persName n="pers111">Ξάνθος</persName>
+                        <persName >Ξάνθος</persName>
                         <persName n="pers1">Ἀχιλλέως</persName>·<note resp="Erbse"> cf. Τ 400 </note>
-                        <persName n="pers637">Πόδαργος</persName>
+                        <persName >Πόδαργος</persName>
                         <persName n="pers119">Μενελάου</persName>
-                        <note resp="Erbse"> cf. Ψ 295 </note>· <persName n="pers638"
+                        <note resp="Erbse"> cf. Ψ 295 </note>· <persName 
                         >Αἴθη</persName>. <persName n="pers22">Ἀγαμέμνονος</persName>· ἣν <persName
-                           n="pers594">Αἴθωνα</persName> νῦν εἶπε μετατιθεὶς τὸ γένος· οὐδαμοῦ δὲ
+                           >Αἴθωνα</persName> νῦν εἶπε μετατιθεὶς τὸ γένος· οὐδαμοῦ δὲ
                         τεθρίππῳ κέχρηνται ἥρωες. εἰ μὴ ἐν <ref
                            type="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσεία</title></ref> ἐπὶ
                         παραβολῆς· <cit>
@@ -1738,7 +1738,7 @@ style simple scholia" alternate="no"?>
                            resp="Erbse"> sc. Θ 89 </note> καὶ οὐ μόνον τοῦτον θρασὺν. ἀλλὰ καὶ τὸν
                         ἡνιοχοῦντα αὐτῷ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.128</ref>
-                           <q><persName n="pers591">Ἀρχεπτόλεμον</persName></q>
+                           <q><persName >Ἀρχεπτόλεμον</persName></q>
                         </cit>· οὐ τοῦ τυχόντος γὰρ ἦν τὸ τέτρωρον ἡνιοχεῖν· φασι δὲ εἰ τέτρωρον ἦν.
                         πῶς ὡς πρὸς δυϊκὸν ἀποτείνεται καὶ φασιν· νῦν μοι <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.186</ref>
@@ -1808,7 +1808,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p>ἄτοπον νῦν φυσιολογεῖν <persName n="pers172">Ἕκτορα</persName>· δηλοῖ δὲ
-                           <note resp="Erbse">sc. 196 – 7</note> ὅτι τὰ <persName n="pers514"
+                           <note resp="Erbse">sc. 196 – 7</note> ὅτι τὰ <persName 
                            >Ἐρευθαλίωνος</persName> ὅπλα τίμια· καὶ ὅτι εἰ περιέσται τοῦ συνετοῦ καὶ
                         ἀνδρείου, τοὺς λοιποὺς εὐκόλως <rs type="ethnic" n="place3">Ἕλληνας</rs>
                         ἕξει⁑</p>
@@ -1868,9 +1868,9 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.203</p>
                   </div>
                   <div type="comment">
-                     <p>προτρεπτικὸν καὶ τοῦτο πρὸς τὴν βοήθειαν· <placeName n="place208"
+                     <p>προτρεπτικὸν καὶ τοῦτο πρὸς τὴν βοήθειαν· <placeName 
                            >Ἑλίκη</placeName> δὲ ἐστι τῆς <rs type="ethnic" n="place96">Ἀχαΐας</rs>
-                        πόλις ὑπὸ σεισμοῦ ἠφανισμένη· <placeName n="place207">Αἰγαὶ</placeName> δὲ
+                        πόλις ὑπὸ σεισμοῦ ἠφανισμένη· <placeName >Αἰγαὶ</placeName> δὲ
                         νῆσος πλησίον <placeName n="place100">Εὐβοίας</placeName>⁑ </p>
                   </div>
                </div>
@@ -2062,7 +2062,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.233</p>
                   </div>
                   <div type="comment">
-                     <p>τὸ πλῆρες μᾶλλον <rs type="waw">ἄντα</rs>· ὡς καὶ τῷ <persName n="pers75"
+                     <p>τὸ πλῆρες μᾶλλον <rs type="waw">ἄντα</rs>· ὡς καὶ τῷ <persName 
                            >Ἡρωδιανῷ</persName>
                         <note resp="Erbse">sc. 2,61,16</note> ἀρέσκει· οὐχὶ δὲ <rs type="waw"
                            >ἀντὶ</rs> καθὼς <persName n="pers16">Ἀριστάρχῳ</persName> ἔδοξεν ⁑</p>
@@ -2487,10 +2487,10 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p>μόνους τοὺς <persName n="pers172">Ἕκτορος</persName> ἡνιόχους ἐποίησεν ἐν τῷ
                         πολέμῳ τιτρωσκομένους· ἄνω μὲν <note resp="Erbse"> sc. Θ 119 – 23 </note>
-                        <persName n="pers589">Ἠνιοπέα</persName>· νῦν δὲ <persName n="pers591"
+                        <persName >Ἠνιοπέα</persName>· νῦν δὲ <persName 
                            >Ἀρχεπτόλεμον</persName>· μετὰ δὲ ταῦτα <note resp="Erbse"> sc. Π 737 –
                            43 </note>
-                        <persName n="pers552">Κεβριόνην</persName>· θρασὺς γὰρ ἡνίοχός ἐστιν
+                        <persName >Κεβριόνην</persName>· θρασὺς γὰρ ἡνίοχός ἐστιν
                            <persName n="pers172">Ἕκτωρ</persName>· <note resp="Erbse"> cf. Θ 89 – 90
                         </note> διδάσκει δὲ ὁ ποιητὴς ὅτι βλάπτει ἡ πρὸς τοὺς θρασεῖς φιλία⁑</p>
                   </div>
@@ -2818,10 +2818,10 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.368</p>
                   </div>
                   <div type="comment">
-                     <p>προσάντη. καὶ ἄνωθεν καταρρέοντα· τὸν πλοῦν δὲ τοῦ <placeName n="place217"
+                     <p>προσάντη. καὶ ἄνωθεν καταρρέοντα· τὸν πλοῦν δὲ τοῦ <placeName 
                            >Κωκυτοῦ</placeName> φησὶν. <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.514</ref>
-                           <q>ὃς ἐστι <placeName n="place210">Στυγὸς</placeName> ὕδατός ἀπορρώξ</q>
+                           <q>ὃς ἐστι <placeName>Στυγὸς</placeName> ὕδατός ἀπορρώξ</q>
                         </cit>⁑</p>
                   </div>
                </div>
@@ -2888,7 +2888,7 @@ style simple scholia" alternate="no"?>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.355</ref>
                            <q>ὁ δὲ` μαίνεται οὐκ ἔτ᾽ ἀνεκτῶς</q>
                         </cit>· <rs type="waw">προφανεῖσα</rs> δὲ γράφει <persName n="pers16"
-                           >Ἀρίσταρχος</persName> δυϊκῶς· ὁ δὲ <persName n="pers75"
+                           >Ἀρίσταρχος</persName> δυϊκῶς· ὁ δὲ <persName 
                            >Ἡρωδιανὸς</persName>· <q>προφανείσας</q> βούλεται· συστέλλων <rs
                            type="ethnic" n="place78">Δωρικῶς</rs> τὸ <rs type="waw">α</rs>· ᾧ καὶ
                         πειθόμεθα⁑</p>
