@@ -173,6 +173,29 @@
                             <p></p>
                         </div>
                     </div>
+                    
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:12.G5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.228</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:12.G6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.246</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
