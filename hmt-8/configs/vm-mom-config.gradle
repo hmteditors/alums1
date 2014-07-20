@@ -1,15 +1,15 @@
 project.ext {
 
-  textInventory="/vagrant/alums1/editions/inventory.xml"
-  textArchive="/vagrant/alums1/editions"
+  textInventory="/vagrant/alums1/hmt-8/editions/inventory.xml"
+  textArchive="/vagrant/alums1/hmt-8/editions"
 
     // Lists of index files to use in verification:
-    folioToImage = "/vagrant/alums1/indices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/alums1/hmt-8/indices/venA-folioToImage.csv"
 
-    textToImage = "/vagrant/alums1/indices/venA-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/alums1/indices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/alums1/hmt-8/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/alums1/hmt-8/indices/venA-textToFolio-Iliad.csv"
 
-//    scholiaInventories = "/vagrant/alums1/collections/venA-exterior.csv,/vagrant/alums1/collections/venA-intermarginal.csv,/vagrant/alums1/collections/venA-interior.csv,/vagrant/alums1/collections/venA-mainScholia.csv,/vagrant/alums1/collections/venA-interlinear.csv"
-    scholiaInventories = "/vagrant/alums1/collections/venA-allScholia.csv,/vagrant/alums1/collections/ups-1-1-allScholia.csv"
+
+    scholiaInventories = "/vagrant/alums1/hmt-8/collections/venA-allScholia.csv,/vagrant/alums1/hmt-8/collections/ups-1-1-allScholia.csv"
     
 }
