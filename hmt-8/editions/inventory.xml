@@ -47,6 +47,34 @@
     
     <textgroup urn="urn:cts:greekLit:tlg5026">
         <groupname xml:lang="eng"> Scholia to the Iliad</groupname>
+        <work urn="urn:cts:greekLit:tlg5026.e3" xml:lang="grc">
+            <title xml:lang="eng"> Main  scholia of the Escorial Upsilon 1.1 MS</title>
+            <edition urn="urn:cts:greekLit:tlg5026.e3.hmt">
+                <label xml:lang="eng">msA</label>
+                <description xml:lang="eng">HMT edition of the main  scholia of the Escorial Upsilon 1.1 MS</description>
+                <online docname="scholia/Esc-Upsilon-1-1-Scholia-8.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='e3']/tei:body"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                        
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>-->
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        
+        
+        
+        
         <work urn="urn:cts:greekLit:tlg5026.msA" xml:lang="grc">
             <title xml:lang="eng"> Main marginal scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msA.hmt">
