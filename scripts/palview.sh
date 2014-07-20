@@ -1,6 +1,18 @@
 # Within HMT VM, run HMT-MOM's palView task:
 
-PALFILE=${DIR}collections/paleography.csv
+if [ $# -eq 1 ]; then
+
+    PALFILE=/vagrant/alums1/${1}/collections/paleography.csv
+
+else
+
+    PALFILE=/vagrant/alums1/collections/paleography.csv
+fi
+
+
+
+
+
 
 cd /vagrant/hmt-mom
 
