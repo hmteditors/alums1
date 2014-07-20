@@ -57,10 +57,16 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                        
+                            <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                                <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
+                                    xpath="/tei:div[@n = '?']"/>
+                            </citation>
+                        
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
                             <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
                                 xpath="/tei:div[@n = '?']"/>
-                        </citation>
+                        </citation>-->
                     </citationMapping>
                 </online>
                 
