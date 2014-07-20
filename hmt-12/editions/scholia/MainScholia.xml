@@ -16,13 +16,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="11">
+        <group n="12">
             <text n="msA">
                 <body>
 
                     <!-- team A -->
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A1" type="scholion">
+                    <div n="A1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -37,7 +37,7 @@
                                 ἐν ενὶ λέγειν καιρῷ θεῖναι ἀδύνατον</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A2" type="scholion">
+                    <div n="A2" type="scholion">
                         <div type="lemma">
                             <p>ὡς ὁ μὲν ἐν κλισίηι <persName n="urn:cite:hmt:pers.pers504"
                                     >Μενοιτίου</persName> ἄλκιμος υἱος</p>
@@ -64,7 +64,7 @@
                                     >Ἑλλανικῷ</persName></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A3" type="scholion">
+                    <div n="A3" type="scholion">
                         <div type="lemma">
                             <p>ἰ̈ᾶτ' <persName n="urn:cite:hmt:pers.pers244">Εὐρύπυλον</persName>
                                 βεβλημένον</p>
@@ -77,7 +77,7 @@
                                 ἐκεῖνοι ἐμάχοντο</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A4" type="scholion">
+                    <div n="A4" type="scholion">
                         <div type="lemma">
                             <p> τάφρος <sic>ἐῦˆτι</sic> σχήσεϊν <rs type="ethnic"
                                     n="urn:cite:hmt:pers.pers66">Δαναῶν</rs></p>
@@ -92,7 +92,7 @@
                                 γενομένου ὑπο τῶν μεταγενεστέρων καὶ τὴν ἀπώλειαν αὐτοῦ εἶπεν</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A5" type="scholion">
+                    <div n="A5" type="scholion">
                         <div type="lemma">
                             <p>εὐρὺ το ποιήσαντο </p>
                         </div>
@@ -105,7 +105,7 @@
                                 τῆς τάφρου ταύτης γὰρ ὑπέρκειται</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A6" type="scholion">
+                    <div n="A6" type="scholion">
                         <div type="lemma">
                             <p>ἤλασαν, οὐδὲ θεοῖσι</p>
                         </div>
@@ -119,7 +119,7 @@
                                 θεοῖς δόσαν οὕτω καὶ διορθωθήσεται</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A7" type="scholion">
+                    <div n="A7" type="scholion">
                         <div type="lemma">
                             <p>ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>
                                 ζωὸς ἔην</p>
@@ -134,7 +134,7 @@
                                 τοῦ δέ περισσευοντος κατα τὸ σύνηθες</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A8" type="scholion">
+                    <div n="A8" type="scholion">
                         <div type="lemma">
                             <p>αὐτὰρ ἐπεὶ κατα μὲν <rs type="ethnic" n="urn:cite:hmt:place.place6"
                                     >Τρωων</rs> θάνον</p>
@@ -147,7 +147,7 @@
                                 ἐπίρρημα ἀνταποδέδοται τῷ ἐπεῖ</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A9" type="scholion">
+                    <div n="A9" type="scholion">
                         <div type="lemma">
                             <p>δὴ τότε μητιόωντο</p>
                         </div>
@@ -160,7 +160,7 @@
                                 καὶ ἐκ τούτων διαβάλλεται προς τὸ πρόσωπον γινόμενα</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A10" type="scholion">
+                    <div n="A10" type="scholion">
                         <div type="lemma">
                             <p>Κάρησσός τε Ῥοδίος τε</p>
                         </div>
@@ -191,7 +191,7 @@
                                 ἴ̈̈σως οὖν δια τοῦτο ἐξηλλάγη</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A11" type="scholion">
+                    <div n="A11" type="scholion">
                         <div type="lemma">
                             <p><placeName n="urn:cite:hmt:place.place256">Ῥοδίος</placeName> τε</p>
                         </div>
@@ -206,7 +206,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A12" type="scholion">
+                    <div n="A12" type="scholion">
                         <div type="lemma">
                             <p>καὶ <placeName n="urn:cite:hmt:place.place92">Σιμόεις</placeName> ὅθι
                                 πολλὰ</p>
@@ -232,7 +232,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A13" type="scholion">
+                    <div n="A13" type="scholion">
                         <div type="lemma">
                             <p>βοάγρια</p>
                         </div>
@@ -244,7 +244,7 @@
                                 βοῶν γενόμενα</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A14" type="scholion">
+                    <div n="A14" type="scholion">
                         <div type="lemma">
                             <p>ἐννῆμαρ δ' ἐς τεῖχος</p>
                         </div>
@@ -263,7 +263,7 @@
                                 τὸ τεῖχος . ἀλλὰ καὶ τὸν τόπον δια τὸ μηδὲ ἴχνος φανῆναι </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.A15" type="scholion">
+                    <div n="A15" type="scholion">
                         <div type="lemma">
                             <p>βοάγρια</p>
                         </div>
@@ -277,7 +277,7 @@
 
                     <!-- team B -->
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B1" type="scholion">
+                    <div n="B1" type="scholion">
                         <div type="lemma">
                             <p>‡ ἀλίπλοα:</p>
                         </div>
@@ -295,7 +295,7 @@
                                 διπλόος τριπλοος⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B2" type="scholion">
+                    <div n="B2" type="scholion">
                         <div type="lemma">
                             <p>φιτρῶν καὶ λάων:</p>
                         </div>
@@ -308,7 +308,7 @@
                                 καὶ τὸ σχῆμα ἀρχαϊκόν τὸ τῆς ἐλλίψεως⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B3" type="scholion">
+                    <div n="B3" type="scholion">
                         <div type="lemma">
                             <p>καλλίροον ὕδωρ:</p>
                         </div>
@@ -333,7 +333,7 @@
                                 </cit>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B4" type="scholion">
+                    <div n="B4" type="scholion">
                         <div type="lemma">
                             <p>ὡς ἂρ ἔμελλον· ὄπισθεν</p>
                         </div>
@@ -350,7 +350,7 @@
                                 ἀντι τοῦ <q>ἐώικεσαν</q>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B5" type="scholion">
+                    <div n="B5" type="scholion">
                         <div type="lemma">
                             <p>τεῖχος εΰδμητον·</p>
                         </div>
@@ -372,7 +372,7 @@
                                 </choice> προσλαβὼν εἴρηκεν <q>ἐπι πύργους</q> βαλλόμενα⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B6" type="scholion">
+                    <div n="B6" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> μάστιγι::</p>
                         </div>
@@ -388,7 +388,7 @@
                                 </choice>·</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B7" type="scholion">
+                    <div n="B7" type="scholion">
                         <div type="lemma">
                             <p>αὐτὰρ ὅ γ' ὡς τὸ πρόσθεν:</p>
                         </div>
@@ -401,7 +401,7 @@
                                     <q>ἐμάχετο ὡς πρόσθεν <w>ἐμάχε<del>ν</del>το</w></q>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B8" type="scholion">
+                    <div n="B8" type="scholion">
                         <div type="lemma">
                             <p>ταρβεῖ οὐδε φοβεῖται:</p>
                         </div>
@@ -414,7 +414,7 @@
                                 φεύγει. λέγει οὖν οὔτε δέδιεν οὔτε φεύγει⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B9" type="scholion">
+                    <div n="B9" type="scholion">
                         <div type="lemma">
                             <p>ἐλίσσεθ‘ ἑταίρους.</p>
                         </div>
@@ -433,7 +433,7 @@
 
                     <!-- team C -->
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.C1" type="scholion">
+                    <div n="C1" type="scholion">
                         <div type="lemma">
                             <p>‡ ἕστασαν ἀμφοτέρωθεν· εστασαν υἷες Αχαιῶν:</p>
                         </div>
@@ -456,7 +456,7 @@
                                 ἀναγνώσει καὶ ἡμεῖς⁑ </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.C2" type="scholion">
+                    <div n="C2" type="scholion">
                         <div type="lemma">
                             <p>ὁξέσιν ἠρήιρει </p>
                         </div>
@@ -471,7 +471,7 @@
                                 </cit> δασύνεται⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.C3" type="scholion">
+                    <div n="C3" type="scholion">
                         <div type="lemma">
                             <p>ἐσβαίη:</p>
                         </div>
@@ -487,7 +487,7 @@
                                 </cit>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.C4" type="scholion">
+                    <div n="C4" type="scholion">
                         <div type="lemma">
                             <p> δὴ τότε <persName n="urn:cite:hmt:pers.pers480"
                                     >πουλυδάμασ</persName>:</p>
@@ -507,7 +507,7 @@
                                 λείπειν τὴν πρόθεσιν⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.C5" type="scholion">
+                    <div n="C5" type="scholion">
                         <div type="lemma">
                             <p>ἱ̈ππεῦσι στεῖνος γὰρ.</p>
                         </div>
@@ -536,7 +536,7 @@
                                         >Θεσσαλίωι</rs> κλείτει</q>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.1" type="scholion">
+                    <div n="1" type="scholion">
                         <div type="lemma">
                             <p>εἰ δέ χ' ὑποστρέψωσι.</p>
                         </div>
@@ -554,7 +554,7 @@
                     </div>
 
                     <!-- team D -->
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D1" type="scholion">
+                    <div n="D1" type="scholion">
                         <div type="lemma">
                             <p>αὐτοὶ δὲ πρυλέες συν τευχ <choice>
                                     <abbr> τευχ></abbr>
@@ -578,7 +578,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D2" type="scholion">
+                    <div n="D2" type="scholion">
                         <div type="lemma">
                             <p>οἱ δὲ διαστάντες σφέας αὐτοὺς</p>
                         </div>
@@ -596,7 +596,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D3" type="scholion">
+                    <div n="D3" type="scholion">
                         <div type="lemma">
                             <p>τῶν δ' ἑτέρων <persName n="urn:cite:hmt:pers.pers129"
                                     >Πάρις</persName> ῆρχε</p>
@@ -609,7 +609,7 @@
                                 τούτοις διαφοράν</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D4" type="scholion">
+                    <div n="D4" type="scholion">
                         <div type="lemma">
                             <p>
                                 <persName n="urn:cite:hmt:pers.pers129">Παρις</persName> κατα
@@ -630,7 +630,7 @@
                                 ἐβοήθησε πολεμίων ἐπελθόντων</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D5" type="scholion">
+                    <div n="D5" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers503"> Ἅσιος
                                 Ὑρτακίδης</persName></p>
@@ -646,7 +646,7 @@
                                 <w>δ<unclear>ὲ</unclear></w> ἅπαξ πρὸς τοὺς χωρίζοντας</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D6" type="scholion">
+                    <div n="D6" type="scholion">
                         <div type="lemma">
                             <p>αἴθωηες μεγάλοι ποταμοῦ ἀπο <placeName
                                     n="urn:cite:hmt:place.place257">Σελήεντος</placeName></p>
@@ -661,7 +661,7 @@
                                     n="urn:cite:hmt:place.place73">Θεσπρωτίας</placeName></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D7" type="scholion">
+                    <div n="D7" type="scholion">
                         <div type="lemma">
                             <p>σὺν κυσὶ καὶ δούρεσσι φυλάσσοντας περι μῆλα.</p>
                         </div>
@@ -672,7 +672,7 @@
                             <p> σημειοῦνται τινὲς ἐνταῦθα ὅτι περισσὴ, ἡ πρόθεσις ἡ περι</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D8" type="scholion">
+                    <div n="D8" type="scholion">
                         <div type="lemma">
                             <p>ἀντί θεον <persName n="urn:cite:hmt:pers.pers195"
                                     >Σαρπηδόνα</persName>.</p>
@@ -702,7 +702,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.D9" type="scholion">
+                    <div n="D9" type="scholion">
                         <div type="lemma">
                             <p>νῦν δ’ ἔμπης γὰρ κῆρες:</p>
                         </div>
@@ -717,7 +717,7 @@
 
                     <!-- team E -->
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E1" type="scholion">
+                    <div n="E1" type="scholion">
                         <div type="lemma">
                             <p>‡ οἱ δὲ ἐπεὶ ἀλλήλους ἄραρον:</p>
                         </div>
@@ -728,7 +728,7 @@
                             <p>σημειοῦνται τινὲς ὅτι βόας τὰς ἀσπίδας εἴρηκεν⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E2" type="scholion">
+                    <div n="E2" type="scholion">
                         <div type="lemma">
                             <p>βάν ῥ ἰθὺς Δαναῶν λελιημένοι·</p>
                         </div>
@@ -746,7 +746,7 @@
                                     >ἡρῳδιανὸς</persName> ἐν <title>επιμερισμοῖς</title>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E3" type="scholion">
+                    <div n="E3" type="scholion">
                         <div type="lemma">
                             <p>σχήσες θ᾽ ἀλλ᾽ ἐν νηυσὶ,</p>
                         </div>
@@ -760,7 +760,7 @@
                                 </choice>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E4" type="scholion">
+                    <div n="E4" type="scholion">
                         <div type="lemma">
                             <p>ϊπποισιν καὶ ὄχεσφιν ἀγαλλόμενος·</p>
                         </div>
@@ -771,7 +771,7 @@
                             <p>ἐπι τὸ <q> ἀγαλλόμενος</q> βραχὺ διασταλτέον δια τὸ σαφὲς⁑ </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E5" type="scholion">
+                    <div n="E5" type="scholion">
                         <div type="lemma">
                             <p>ἂψ ἀπονοστήσειν προτὶ <placeName n="urn:cite:hmt:place.place6">
                                     ἴ̈λιον</placeName>·</p>
@@ -790,7 +790,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E6" type="scholion">
+                    <div n="E6" type="scholion">
                         <div type="lemma">
                             <p>εἴσατο γὰρ νηῶν ἐπ αριστερὰ·</p>
 
@@ -820,7 +820,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E7" type="scholion">
+                    <div n="E7" type="scholion">
                         <div type="lemma">
                             <p>εὗρ ἐπικεκλιμένας σανίδας καὶ μακρὸν ὀχῆα· </p>
                         </div>
@@ -835,7 +835,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E8" type="scholion">
+                    <div n="E8" type="scholion">
                         <div type="lemma">
                             <p>τῇ ρ' ἰθὺς φρονέων,</p>
 
@@ -851,7 +851,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E9" type="scholion">
+                    <div n="E9" type="scholion">
                         <div type="lemma">
                             <p>‡ὀξέα κεκλήγοντες:</p>
 
@@ -877,7 +877,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G1" type="scholion">
+                    <div n="G1" type="scholion">
                         <div type="lemma">
                             <p>‡ νή πιοι ἐν δὲ πύλῃσι δῦ ἀνέρας εὕρον ἀριστους:</p>
 
@@ -895,7 +895,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G2" type="scholion">
+                    <div n="G2" type="scholion">
                         <div type="lemma">
                             <p>Λαπιθάων αἰχμητάων:</p>
 
@@ -910,7 +910,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G3" type="scholion">
+                    <div n="G3" type="scholion">
                         <div type="lemma">
                             <p>οἰ δ‘ ϊθὺς πρὸς τεῖχος,</p>
 
@@ -928,7 +928,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G4" type="scholion">
+                    <div n="G4" type="scholion">
                         <div type="lemma">
                             <p>βόας αὔας,</p>
 
@@ -952,7 +952,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G5" type="scholion">
+                    <div n="G5" type="scholion">
                         <div type="lemma">
                             <p>᾿<persName n="cite:urn:hmt:pers.pers371">̣Ασιον</persName> ἀμφὶ
                                 ἄνακτα καὶ <persName n="cite:urn:hmt:pers.pers549">Ϊαμὲν</persName>
@@ -972,7 +972,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G6" type="scholion">
+                    <div n="G6" type="scholion">
                         <div type="lemma">
                             <p>᾿εἵως μὲν: </p>
 
@@ -986,7 +986,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G7" type="scholion">
+                    <div n="G7" type="scholion">
                         <div type="lemma">
                             <p><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωας</rs> ατὰρ <rs
                                     type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs></p>
@@ -1005,7 +1005,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G8" type="scholion">
+                    <div n="G8" type="scholion">
                         <div type="lemma">
                             <p>ἐκ δὲ τῶ αΐξαντε: </p>
 
@@ -1018,7 +1018,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G9" type="scholion">
+                    <div n="G9" type="scholion">
                         <div type="lemma">
                             <p>κολοσυρτόν.</p>
 
@@ -1032,7 +1032,7 @@
                         </div>
                     </div>
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G10" type="scholion">
+                    <div n="G10" type="scholion">
                         <div type="lemma">
                             <p>δοχμώ τ' ἀΐσσοντε.</p>
 
@@ -1049,7 +1049,7 @@
                         </div>
                     </div>
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G11" type="scholion">
+                    <div n="G11" type="scholion">
                         <div type="lemma">
                             <p>περι σφίσιν: </p>
 
@@ -1063,7 +1063,7 @@
                         </div>
                     </div>
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E10" type="scholion">
+                    <div n="E10" type="scholion">
                         <div type="lemma">
                             <p>περι σφίσιν: </p>
 
@@ -1076,7 +1076,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E10" type="scholion">
+                    <div n="E10" type="scholion">
                         <div type="lemma">
                             <p>περι σφίσιν: </p>
 
@@ -1089,7 +1089,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E10" type="scholion">
+                    <div n="E10" type="scholion">
                         <div type="lemma">
                             <p>περι σφίσιν: </p>
 
@@ -1102,7 +1102,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E10" type="scholion">
+                    <div n="E10" type="scholion">
                         <div type="lemma">
                             <p>περι σφίσιν: </p>
 
@@ -1115,7 +1115,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E10" type="scholion">
+                    <div n="E10" type="scholion">
                         <div type="lemma">
                             <p>‡ λαοῖσιν καθύπερθε·</p>
 
@@ -1136,7 +1136,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E11" type="scholion">
+                    <div n="E11" type="scholion">
                         <div type="lemma">
                             <p>ἅς τ' ἄνεμος ζαὴς.</p>
 
@@ -1156,7 +1156,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E12" type="scholion">
+                    <div n="E12" type="scholion">
                         <div type="lemma">
                             <p>ταρφειάς:</p>
 
@@ -1177,7 +1177,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E13" type="scholion">
+                    <div n="E13" type="scholion">
                         <div type="lemma">
                             <p>ὡς τῶν ἐκ χειρῶν βέλεα ῥέον:</p>
 
@@ -1191,7 +1191,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E14" type="scholion">
+                    <div n="E14" type="scholion">
                         <div type="lemma">
                             <p>ἀμφ αῦον:</p>
 
@@ -1211,7 +1211,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E15" type="scholion">
+                    <div n="E15" type="scholion">
                         <div type="lemma">
                             <p><choice>
                                     <corr>φιλοψευδής</corr>
@@ -1247,7 +1247,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E16" type="scholion">
+                    <div n="E16" type="scholion">
                         <div type="lemma">
                             <p>πάγχυ μάλ’ οὐ γὰρ ἔγωγ᾽</p>
 
@@ -1261,7 +1261,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E17" type="scholion">
+                    <div n="E17" type="scholion">
                         <div type="lemma">
                             <p>οἱ δ' ὥστε σφῆκες μέσον αἰόλοι ηὲ μέλισσαι</p>
 
@@ -1275,7 +1275,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E18" type="scholion">
+                    <div n="E18" type="scholion">
                         <div type="lemma">
                             <p>μέσον αιόλοι:</p>
 
@@ -1290,7 +1290,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E19" type="scholion">
+                    <div n="E19" type="scholion">
                         <div type="lemma">
                             <p>ανδρας θηρητρας:</p>
 
@@ -1303,7 +1303,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E20" type="scholion">
+                    <div n="E20" type="scholion">
                         <div type="lemma">
                             <p>ἄλλοι δ' ἀμφ' ἄλλησι,</p>
 
@@ -1338,7 +1338,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.E21" type="scholion">
+                    <div n="E21" type="scholion">
                         <div type="lemma">
                             <p>τῷ δὲ λάϊνον:</p>
 
@@ -1360,7 +1360,7 @@
                     </div>
 
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G12" type="scholion">
+                    <div n="G12" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1373,7 +1373,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G13" type="scholion">
+                    <div n="G13" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1386,7 +1386,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G14" type="scholion">
+                    <div n="G14" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1399,7 +1399,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G15" type="scholion">
+                    <div n="G15" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1412,7 +1412,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G16" type="scholion">
+                    <div n="G16" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1425,7 +1425,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G17" type="scholion">
+                    <div n="G17" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1438,7 +1438,7 @@
 
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.G18" type="scholion">
+                    <div n="G18" type="scholion">
                         <div type="lemma">
                             <p/>
 
@@ -1455,7 +1455,7 @@
 
                     <!-- team F -->
 
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f1" type="scholion">
+                    <div n="f1" type="scholion">
                         <div type="lemma">
                             <p>‡ ἡ δὲ διαπρὸ·</p>
                         </div>
@@ -1468,7 +1468,7 @@
                                     >Ἀριστάρχου</persName>. ἡ δε κοινὴ ἠ δὲ διαπρό ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f2" type="scholion">
+                    <div n="f2" type="scholion">
                         <div type="lemma">
                             <p>χάζετ' ἐπει οἱ θυμὸς ἐέλπετο.</p>
                         </div>
@@ -1482,7 +1482,7 @@
                                 <q>ἐέλδετο</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f3" type="scholion">
+                    <div n="f3" type="scholion">
                         <div type="lemma">
                             <p>‡τείχεος ἔντοσθεν</p>
                         </div>
@@ -1494,7 +1494,7 @@
                                 οὐ κατα τα διάνοιαν ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.f4" type="scholion">
+                    <div n="f4" type="scholion">
                         <div type="lemma">
                             <p>ἀσπίδας εὐκύκλους,</p>
                         </div>
