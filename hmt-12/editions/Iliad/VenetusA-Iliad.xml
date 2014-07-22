@@ -127,9 +127,9 @@
         <l n="60">δὴ τότε <persName n="urn:cite:hmt:pers.pers480">Πουλυδάμας</persName> θρασὺν
             <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> εῖπε παραστάς·</l>
         <l n="61"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName> τ' ἢδ' ἄλλοι <rs
-            type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> ἀγοὶ ἠδ' ἐπίκούρων</l>
+          type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> ἀγοὶ ἠδ' <choice><orig><sic>ἐπίκούρων</sic></orig><reg><sic>ἐπίκούροι</sic></reg></choice></l>
         <l n="62">ἀφραδέως δια τάφρον ἐλαύνομεν ὠκέας ἵππους·</l>
-        <l n="63">ἡ δὲ μάλ' ἀργαλέη περάαν. σκόλοπες γὰρ ἐν αυτῆι</l>
+        <l n="63">ἡ δὲ μάλ' ἀργαλέη περάαν. σκόλοπες γὰρ ἐν αυτῇ</l>
         <l n="64">ὀξέες ἑστᾶσιν. ποτὶ δ' αὐτοὺς τεῖχος <rs type="ethnic"
             n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
         <l n="65">ἔνθ' οὔ πως ἐστὶν καταβήμεναι οὐδὲ μάχεσθαι</l>
@@ -142,7 +142,7 @@
             >Ἄργεος</placeName> ἐνθάδ' <rs type="ethnic" n="urn:cite:hmt:place.place96"
           >Ἀχαιούς</rs>·</l>
         <l n="71">εἰ δέ χ' ὑποστρέψωσι. παλίωξις δὲ γένηται</l>
-        <l n="72">ἐκ νηῶν. καὶ τάφρωι ἐνιπλήξωμεν ὀρυκτῆι.</l>
+        <l n="72">ἐκ νηῶν. καὶ τάφρωι ἐνιπλήξωμεν ὀρυκτῇ.</l>
         <l n="73">οὐκέτ' ἔπειτ' ὀίω οὐδ' ἄγγελον ἀπονέεσθαι</l>
         <l n="74">ἄψορρον προτὶ ἄστυ ἐλιχθέντων ὑπ' <rs type="ethnic" n="urn:cite:hmt:place.place96"
             >Ἀχαιῶν</rs>·</l>
