@@ -754,25 +754,29 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.105</p>
                         </div>
                         <div type="comment">
-                            <p>σημειοῦνται τινὲς ὅτι βόας τὰς ἀσπίδας εἴρηκεν⁑</p>
+                            <p>σημειοῦνται τινὲς ὅτι βόας τὰς ἀσπίδας εἴρηκεν ⁑</p>
                         </div>
                     </div>
                     <div n="E2" type="scholion">
                         <div type="lemma">
-                            <p>βάν ῥ ἰθὺς Δαναῶν λελιημένοι·</p>
+                            <p>βάν ῥ ἰθὺς <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs>
+                                λελιημένοι·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.106</p>
                         </div>
                         <div type="comment">
-                            <p>λιλῶ ἐστι ῥῆμα, τὸ σημαντικὸν τοῦ προθυμοῦμαι ἐκ τοῦ <rs n="waw"
-                                    >λῶ</rs> διπλασιασθέν· οὗ παράγωγον τὸ λιλαίω <cit>
+                            <p><q>λιλῶ</q> ἐστι ῥῆμα, τὸ σημαντικὸν τοῦ προθυμοῦμαι ἐκ τοῦ <q>λῶ</q>
+                                διπλασιασθέν· οὗ παράγωγον τὸ <q>λιλαίω</q>
+                                <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.574</ref>
                                     <q>λιλαιόμενα χροὸς ἄσαι</q>
-                                </cit>. τοῦ λιλῷ ἀκόλουθος παρακείμενος λελίληκα παθητικὸς λελίλημαι
-                                μετοχὴ λελιλημένος. πληθυντικῇ λελιλημένοι· ἐλλείψει τοῦ <rs n="waw"
-                                    >λ</rs> λελιημένοι. <persName n="urn:cite:hmt:pers.pers493"
-                                    >ἡρῳδιανὸς</persName> ἐν <title>επιμερισμοῖς</title>⁑</p>
+                                </cit>. τοῦ <q><sic>λιλῷ</sic></q> ἀκόλουθος παρακείμενος
+                                    <q>λελίληκα</q> παθητικὸς <q>λελίλημαι</q> μετοχὴ
+                                    <q>λελιλημένος</q>. πληθυντικῇ <q>λελιλημένοι</q>· ἐλλείψει τοῦ
+                                    <rs n="waw">λ</rs>
+                                <q>λελιημένοι</q>. <persName n="urn:cite:hmt:pers.pers493"
+                                    >ἡρῳδιανὸς</persName> ἐν <title>επιμερισμοῖς</title> ⁑</p>
                         </div>
                     </div>
                     <div n="E3" type="scholion">
@@ -783,21 +787,22 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.107</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐπι τῶν τρώων ἀκουστέον ἐμπεσεῖν ταῖς <choice>
+                            <p>ὅτι ἐπι τῶν <rs type="ethnic" n="urn:cite:hmt:pers.pers6">τρώων</rs>
+                                ἀκουστέον ἐμπεσεῖν ταῖς <choice>
                                     <sic>ναυσὶν</sic>
                                     <corr>ναυσίν</corr>
-                                </choice>⁑</p>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="E4" type="scholion">
                         <div type="lemma">
-                            <p>ϊπποισιν καὶ ὄχεσφιν ἀγαλλόμενος·</p>
+                            <p>ἵπποισιν καὶ ὄχεσφιν ἀγαλλόμενος·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.114</p>
                         </div>
                         <div type="comment">
-                            <p>ἐπι τὸ <q> ἀγαλλόμενος</q> βραχὺ διασταλτέον δια τὸ σαφὲς⁑ </p>
+                            <p>ἐπι τὸ <q> ἀγαλλόμενος</q> βραχὺ διασταλτέον δια τὸ σαφὲς ⁑ </p>
                         </div>
                     </div>
                     <div n="E5" type="scholion">
@@ -815,7 +820,7 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.71</ref>
                                     <q><placeName n="urn:cite:hmt:place.place6"
                                         >ἴλιον</placeName>αἰπὺ ἕλοιεν</q>
-                                </cit>ὅτι οὐδετέρως δι' ὃ ἀθετεῖται⁑</p>
+                                </cit>ὅτι οὐδετέρως δι' ὃ ἀθετεῖται ⁑</p>
 
                         </div>
                     </div>
@@ -835,7 +840,7 @@
                                 </choice>, ἐν ετέροις δὲ ἐφάνη. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.281</ref>
                                     <q>εἴσατο δ' ὡς ὅτε ῥινον</q>
-                                </cit>· καὶ τὸ γνῶωαι <cit>
+                                </cit>· καὶ τὸ γνῶναι <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.532</ref>
                                     <q>εἴσομ' αί κέ μ' ὁ <persName n="urn:cite:hmt:pers.pers215"
                                             >τυδείδης</persName></q>
@@ -845,7 +850,7 @@
                                 σημαντικόν ἐστι τοῦ ἐπορεύθη καὶ τὸ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:1.169</ref>
                                     <q>νῦν δ' εἶμι</q>
-                                </cit> ψιλοῦται⁑ </p>
+                                </cit> ψιλοῦται ⁑ </p>
 
                         </div>
                     </div>
@@ -859,7 +864,7 @@
                         <div type="comment">
                             <p>ὅτι ἑνικῶς εἴρηκεν ὀχῆα δύο δέ εἰσὶν· <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:12.455-12.456</ref>
-                                    <q>δοιοῖ δ' ἔντοσθεν ὀχῆεσ εἶχον ἐπημοιβοί</q>
+                                    <q><sic>δοιοῖ</sic> δ' ἔντοσθεν ὀχῆεσ εἶχον ἐπημοιβοί</q>
                                 </cit></p>
 
                         </div>
@@ -875,14 +880,14 @@
                         <div type="comment">
                             <p>τὸ <q>ἰθὺς φρονέων</q> προς τὴν δόκησιν τοῦ <persName
                                     n="urn:cite:hmt:pers.pers503">ἀσίου</persName> φησὶ δύναται δὲ
-                                τὸ <q>φρονέων</q>, καὶ καθ εἀυτὸ παραλαμβάνεσθαι ἀντι τοῦ
-                                βουλευόμενος⁑ </p>
+                                τὸ <q>φρονέων</q>, καὶ καθ <sic>εἀυτὸ</sic> παραλαμβάνεσθαι ἀντι τοῦ
+                                βουλευόμενος ⁑ </p>
 
                         </div>
                     </div>
                     <div n="E9" type="scholion">
                         <div type="lemma">
-                            <p>‡ὀξέα κεκλήγοντες:</p>
+                            <p>‡ ὀξέα κεκλήγοντες:</p>
 
                         </div>
                         <div type="ref">
@@ -894,15 +899,15 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.222</ref>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:17.88</ref>
                                     <q>ὀξεα κεκληγώς</q>
-                                </cit> ἐκλήθη ἀλλα παρα τὸ κέκληγα γέγονεν ὁ ἐνεστῶς κεκλήγω ὡς παρα
+                                </cit> ἐκλήθη ἀλλα παρα τὸ <q>κέκληγα</q> γέγονεν ὁ ἐνεστῶς <q>κεκλήγω</q> ὡς παρα
                                 τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.120</ref>
                                     <q>ἄνωγα</q>
-                                </cit> ἀνώγω πέπληγα πεπλήγω ἔνθεν τὸ <cit>
+                                </cit> <q>ἀνώγω</q> <q>πέπληγα</q> <q>πεπλήγω</q> ἔνθεν τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:5.504</ref>
                                     <q>ἐπέπληγον πόδες ἵππων</q>
-                                </cit>· ἀκόλουθος δὲ τῷ κεκλήγω μετοχὴ ἡ κεκλήγων ἔνθεν τὸ
-                                κεκλήγοντες⁑ </p>
+                                </cit>· ἀκόλουθος δὲ τῷ <q>κεκλήγω</q> μετοχὴ ἡ <q>κεκλήγων</q> ἔνθεν τὸ
+                                <q>κεκλήγοντες</q> ⁑ </p>
 
                         </div>
                     </div>
