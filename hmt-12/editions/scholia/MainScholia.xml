@@ -1154,9 +1154,9 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ὀξύνει
-                                ὡς πυκνας· ὁ δὲ <persName n="urn:cite:hmt:pers.pers211">Θρᾷξ
+                                ὡς πυκνάς· ὁ δὲ <persName n="urn:cite:hmt:pers.pers211">Θρᾷξ
                                     Διονύσιος</persName> ὁμοίως προεφέρετο τῷ ταχείας παρα τὸ ταρφὺς
-                                ἀρσενικον οὖ πολλαὶ ἦσαν χρῆσις παρα τοῖς παλαιοῖς. καὶ παρ
+                                ἀρσενικὸν οὖ πολλαὶ ἦσαν χρῆσις παρα τοῖς παλαιοῖς. καὶ παρ
                                     <persName n="urn:cite:hmt:pers.pers17">Ὁμήρῳ</persName>. καὶ
                                 δῆλον ὅτι ἀναλόγως μὲν ἀναγινώσκει ὁ <persName
                                     n="urn:cite:hmt:pers.pers211">Θρὰξ</persName> ἐπεκράτησεν δὲ ἡ
@@ -1188,13 +1188,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.160</p>
                         </div>
                         <div type="comment">
-                            <p>δύο μέρη <choice>
-                                    <expan>λογου</expan>
-                                    <abbr>λογ</abbr>
+                            <p>δύο μέρη <choice><abbr>λογ</abbr>
+                                    <expan>λόγου</expan>
                                 </choice> ἐστὶν <q><w>ἀ<add place="supralinear">μ</add>φὶ</w></q>
                                 καὶ <q>αῦον</q>, οὕτως καὶ τὸ πληθυντικον οῖδεν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.240</ref>
-                                    <q>αῦα πάλαι περικήλας</q>
+                                    <q>αῦα πάλαι <sic>περικήλας</sic></q>
                                 </cit> ⁑</p>
 
                         </div>
@@ -1212,19 +1211,16 @@
                         </div>
                         <div type="comment">
                             <p>ὀξυτονητέον ὁμοίως τῷ ἁπλῶ. τὰ γὰρ εἰς <rs type="WAW">ης</rs> λήγοντα
-                                ὑπερ μιαν <choice>
-                                    <expan>συλλαβην</expan>
-                                    <abbr>συλλα</abbr>
+                                ὑπερ μιαν <choice><abbr>συλλα</abbr>
+                                    <expan>συλλάβην</expan>
                                 </choice> ὀξυνόμενα συντιθέμενα παντα θέλει <choice>
                                     <expan>φυλάσσειν</expan>
                                     <abbr>φυλα</abbr>
-                                </choice> τὸν αὐτον τόνον ὑπεσταλμένου τοῦ ἀληθης· σαφής ἀσαφής,
-                                ἀντεραστής φιλαθλητης. οὕτως καὶ <q><choice>
-                                        <expan>φιλοψευδης</expan>
-                                        <abbr>φιλοψευδ</abbr>
+                                </choice> τὸν αὐτον τόνον ὑπεσταλμένου τοῦ <q>ἀληθής</q>· <q>σαφής</q> <q>ἀσαφής</q>,
+                                <q>ἀντεραστής</q> <q>φιλαθλητής</q>. οὕτως καὶ <q><choice>
+                                    <abbr>φιλοψευδ</abbr><expan>φιλοψευδής</expan>
                                     </choice></q> οὐ λέλισμαι ὅτι τὸ <choice>
-                                    <expan>κριτης</expan>
-                                    <abbr>κριτ</abbr>
+                                        <abbr>κριτ</abbr><expan>κριτής</expan>
                                 </choice> ἐσθ' ὅτε καὶ καὶ μεταβολὴν ποιεῖται τόνου ἐν τῷ <choice>
                                     <abbr><choice>
                                             <corr>ξενοκρϊτ</corr>
@@ -1237,7 +1233,7 @@
                     </div>
                     <div n="E16" type="scholion">
                         <div type="lemma">
-                            <p>πάγχυ μάλ’ οὐ γὰρ ἔγωγ'</p>
+                            <p>πάγχυ μάλ' οὐ γὰρ ἔγωγ'</p>
 
                         </div>
                         <div type="ref">
