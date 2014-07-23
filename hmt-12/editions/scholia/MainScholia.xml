@@ -703,7 +703,7 @@
                     </div>
                     <div n="D8" type="scholion">
                         <div type="lemma">
-                            <p>ἀντί θεον <persName n="urn:cite:hmt:pers.pers195"
+                            <p>ἀντίθεον <persName n="urn:cite:hmt:pers.pers195"
                                     >Σαρπηδόνα</persName>.</p>
                         </div>
                         <div type="ref">
@@ -711,35 +711,35 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers403">Εὑρώπην</persName> τὴν
-                                    <persName n="urn:cite:hmt:pers.pers405">Φοίνικος</persName>
+                                    <rs type="ethinc" n="urn:cite:hmt:place.place127">Φοίνικος</rs>
                                 <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> θεασάμενος ἔν
-                                τινι λειμῶνι μετὰ νυμφῶν ἄνθη ἀναλέγουσαν ἡράσθη ἡρασθη καὶ κατελθὼν
-                                ἤλλαξεν ἑαυτὸν εἰς ταυρὸν καὶ ἀπο τοῦ στόματος κρόπον ἔπνει οὕτως τὲ
+                                τινι λειμῶνι μετὰ νυμφῶν ἄνθη ἀναλέγουσαν <sic>ἡράσθη</sic> <sic>ἡρασθη</sic> καὶ κατελθὼν
+                                ἤλλαξεν ἑαυτὸν εἰς <sic>ταυρὸν</sic> καὶ ἀπο τοῦ στόματος <sic>κρόπον</sic> ἔπνει οὕτως τὲ
                                 τὴν <persName n="urn:cite:hmt:pers.pers403">Εὑπωπην</persName>
                                 ἀπατήσας ἐβάστασε καὶ διαπορθμεύσασ. εἰς <placeName
                                     n="urn:cite:hmt:place.place21">Κρήτην</placeName> ἐμίγη.
-                                εἰθ’οὕτως συνώικησεν αὐτῇ <persName n="urn:cite:hmt:pers.pers578"
+                                εἰθ' οὕτως συνῴκησεν αὐτῇ <persName n="urn:cite:hmt:pers.pers578"
                                     >Ἀστερίωνι</persName> τῷ <placeName
-                                    n="urn:cite:hmt:place.place15">Κρητων</placeName> Βασιλεῖ
-                                γενομένη δὲ ἔγκυος ἐκείνη. τρεῖς παίδας ἐγέννησε, <persName
+                                    n="urn:cite:hmt:place.place15">Κρητων</placeName> βασιλεῖ
+                                γενομένη δὲ ἔγκυος ἐκείνη. τρεῖς παῖδας ἐγέννησε, <persName
                                     n="urn:cite:hmt:pers.pers198">Μίνωνα</persName>
                                 <persName n="urn:cite:hmt:pers.pers195">Σαρπηδόνα</persName> καὶ
                                     <persName n="urn:cite:hmt:pers.pers199">Ῥαδάμανθυν</persName>. ἡ
-                                ἱστορία παρ’ <persName n="urn:cite:hmt:pers.pers4"
-                                    >Ἡσιόδωι</persName> καὶ <persName n="urn:cite:hmt:pers.pers579"
+                                ἱστορία παρ' <persName n="urn:cite:hmt:pers.pers4"
+                                    >Ἡσιόδῳ</persName> καὶ <persName n="urn:cite:hmt:pers.pers579"
                                     >Βακχυλίδη</persName>.</p>
                             <p/>
                         </div>
                     </div>
                     <div n="D9" type="scholion">
                         <div type="lemma">
-                            <p>νῦν δ’ ἔμπης γὰρ κῆρες:</p>
+                            <p>νῦν δ' ἔμπης γὰρ κῆρες:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.326</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ ἑξῆς ἐστι νῦν δ’ ἴ̈ομεν ἠέ τω εὖχος ὀρέξομεν. οὕτως οὖν διορθωτέον
+                            <p>τὸ ἑξῆς ἐστι νῦν δ' ἴ̈ομεν ἠέ τω εὖχος ὀρέξομεν. οὕτως οὖν διορθωτέον
                             </p>
                         </div>
                     </div>
