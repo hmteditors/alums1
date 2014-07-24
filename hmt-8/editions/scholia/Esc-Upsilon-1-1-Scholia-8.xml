@@ -1195,8 +1195,8 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.108</p>
                   </div>
                   <div type="comment">
-                     <p>ἠθικῶς τὸν χθὲς ἀνάγει χρόνον· ὡς καὶ ἐν <ref
-                           type="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσείᾳ</title></ref>
+                     <p>ἠθικῶς τὸν χθὲς ἀνάγει χρόνον· ὡς καὶ ἐν <ref type="urn"
+                           n="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσείᾳ</title></ref>
                         <persName n="urn:cite:hmt:pers.pers600">Φιλοίτιος</persName>· <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:22.290-22.291</ref>
                            <q>τοῦτό σοι ἀντὶ ποδὸς ξεινήϊον ὅν ποτ᾽ ἔδωκας ἀντιθέῳ ὀδυσσῆϊ</q>
@@ -1291,7 +1291,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p>υἱὸς <persName n="urn:cite:hmt:pers.pers601">Θηβαίου</persName>. οὐ τῷ γένει· κύριον γάρ ἐστιν ὄνομα ὡς
-                        καὶ ἐν <ref type="urn:cts:greekLit:tlg0012.tlg002"
+                        καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
                            ><title>Ὀδυσσεία</title></ref> ὁ <title>Αἰγύπτιος</title>⁑</p>
                   </div>
                </div>
@@ -1715,8 +1715,8 @@ style simple scholia" alternate="no"?>
                         <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>
                         <note resp="Erbse"> cf. Ψ 295 </note>· <persName n="urn:cite:hmt:pers.pers605">Αἴθη</persName>. <persName
                            n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>· ἣν <persName n="urn:cite:hmt:pers.pers605">Αἴθωνα</persName> νῦν
-                        εἶπε μετατιθεὶς τὸ γένος· οὐδαμοῦ δὲ τεθρίππῳ κέχρηνται ἥρωες. εἰ μὴ ἐν <ref
-                           type="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσεία</title></ref> ἐπὶ
+                        εἶπε μετατιθεὶς τὸ γένος· οὐδαμοῦ δὲ τεθρίππῳ κέχρηνται ἥρωες. εἰ μὴ ἐν <ref type="urn"
+                           n="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσεία</title></ref> ἐπὶ
                         παραβολῆς· <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.81</ref>
                            <q>ἣ δ᾽ ὥς τ᾽ ἐν πεδίῳ τετράωροι ἄρσενες ἵπποι</q>

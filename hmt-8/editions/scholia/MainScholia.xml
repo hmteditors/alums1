@@ -434,8 +434,8 @@
                               <expan>Ὅμηρον</expan>
                            </choice></persName> αἰνίττεσθαι μοναρχίαν καὶ δηλοῦν ὡς ἑνὸς ἑξῆπται τὰ
                         πάντα οἱ δε ζητοῦσι πῶς πάντων περιγίνεται ὁ <persName
-                           n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὁ υπο τριῶν μόνων δεθεὶς καθ ἃφησὶν ἐν τῆ <title><ref
-                              type="urn:cts:greekLit:tlg0012.tlg001:1">α</ref></title>· ῥητέον οὖν
+                           n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὁ υπο τριῶν μόνων δεθεὶς καθ ἃφησὶν ἐν τῆ <ref type="urn"
+                              n="urn:cts:greekLit:tlg0012.tlg001:1"><title>α</title></ref>· ῥητέον οὖν
                         ὅτι <w>ἐκ<unclear>ε</unclear>ῖ</w> μὲν ἐξ επιβουλῆς ἡ ἰσχύς. ἐνταῦθα δὲ ἐκ
                         τοῦ φανερῶς κρατεῖν ⁑</p>
                   </div>
@@ -2262,8 +2262,8 @@
                            resp="Erbse">sc. ad Α 277</note>· ἐπι δὲ τούτου τοῦ παρῳχημένου δύναται
                         ποιητικῶς ἀποβεβλῆσθαι τὸ <rs
                            type="waw">ε</rs> ὥστε ἐπι τὴν <rs
-                           type="waw">φα</rs> συλλαβὴν θετέον τὴν προσωδίαν καὶ ἔστιν ὅμοιον τῷ ἐν <title><ref
-                              type="urn:cts:greekLit:tlg0012.tlg002">Οδυσσεία</ref></title>
+                           type="waw">φα</rs> συλλαβὴν θετέον τὴν προσωδίαν καὶ ἔστιν ὅμοιον τῷ ἐν <ref type="urn"
+                              n="urn:cts:greekLit:tlg0012.tlg002"><title>Οδυσσεία</title></ref>
                         <cit>
                            <ref
                               type="urn">urn:cts:greekLit:tlg0012.tlg002:16.347</ref>
@@ -3336,8 +3336,8 @@
                            n="urn:cite:hmt:pers.pers123">Ωκεανοῦ</persName> θυγατέρων ἣν ὁ <persName
                            n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> φρικωδέστατον όρκον τῶν θεῶν ἐποίησεν τιμήσας
                         αὐτὴν ὡς φησὶν <persName
-                           n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> ἐν <ref
-                           type="urn:cts:greekLit:tlg0020.tlg001"><title>Θεογονία</title>
+                           n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> ἐν <ref type="urn"
+                           n="urn:cts:greekLit:tlg0020.tlg001"><title>Θεογονία</title>
                         </ref>
                         <note
                            resp="Erbse">775</note> ἔστιν δὲ καὶ κρίνη ἐν <placeName
