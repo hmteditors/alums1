@@ -542,13 +542,13 @@
                      type="comment">
                      <p><choice>
                            <abbr>ουτ</abbr>
-                           <expan>ουτως</expan>
+                           <expan>οὕτως</expan>
                         </choice> δια τοῦ <rs
                            type="waw">α</rs>
                         <rs
                            type="waw"><choice>
                               <abbr>τραπ</abbr>
-                              <expan>τραπε</expan>
+                              <expan>τράπε</expan>
                            </choice></rs> αἱ <persName
                            n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName>
                      </p>
@@ -572,7 +572,7 @@
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
-                        <q>αντὶ τοῦ <rs
+                        <q><choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <rs
                               type="waw">τέτυξο</rs></q>: </p>
                   </div>
                </div>
