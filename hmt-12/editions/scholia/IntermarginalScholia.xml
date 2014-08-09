@@ -19,7 +19,7 @@
         <group n="12">
             <text n="msAim">
                 <body>
-                    <!-- team A -->
+                    <!-- folio 154v -->
                     <div n="A1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -37,7 +37,7 @@
                         </div>
                     </div>
 
-                    <!-- team B -->
+                    <!-- folio 155r -->
                     <div n="B1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -69,7 +69,7 @@
                         </div>
                     </div>
 
-                    <!-- team C -->
+                    <!-- folio 155v -->
                     <div n="C1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -149,7 +149,7 @@
                         </div>
                     </div>
 
-                    <!-- team D -->
+                    <!-- folio 156r -->
                     <div n="D1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -213,30 +213,10 @@
                             <p>γράφεται <q>έκαστοι</q></p>
                         </div>
                     </div>
-                    <div n="D6" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.318</p>
-                        </div>
-                        <div type="comment">
-                            <p>ουτ<choice>
-                                    <abbr>ουτ</abbr>
-                                    <expan>οὕτως</expan>
-                                </choice> ἀκλεες αἷ <persName n="urn:cite:hmt:pers.pers16">
-                                    <choice>
-                                        <abbr>Ἀρισταρχ</abbr>
-                                        <expan>Ἀρίσταρχου</expan>
-                                    </choice></persName> καὶ αἱ χαρίες<choice>
-                                    <abbr>χαρίες</abbr>
-                                    <expan>χαριέστεραι</expan>
-                                </choice></p>
-                        </div>
-                    </div>
 
 
-                    <!-- team E -->
+
+                    <!-- folio 156v -->
                     <div n="E1" type="scholion">
                         <div type="lemma">
                             <p>‡τυκτῇσι βοεσσι</p>
@@ -261,102 +241,10 @@
                         <div type="comment">
                             <p>ὅτι πληθυντικῶς τὴν πύλην⁑</p>
                         </div>
-                        <div n="E3" type="scholion">
-                            <div type="lemma">
-                                <p/>
-                            </div>
-                            <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.153</p>
-                            </div>
-                            <div type="comment">
-                                <p>τοῖς ἀπο τοῦ τείχους όχλοις θαρροῦντες </p>
-                            </div>
-
-                        </div>
-                        <div n="E4" type="scholion">
-                            <div type="lemma">
-                                <p/>
-                            </div>
-                            <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.155</p>
-                            </div>
-                            <div type="comment">
-                                <p>ὅτι λείπει ἡ ὑπὸ πρόθεσις</p>
-                            </div>
-
-                        </div>
-                        <div n="E5" type="scholion">
-                            <div type="lemma">
-                                <p>οὔτως διὰ τοῦ <rs type="waw">ο</rs> ῥέον ὁμηρικὸν τὸ σχημα:</p>
-                            </div>
-                            <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.161</p>
-                            </div>
-                            <div type="comment">
-                                <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
-                                    βαλλομενων ἄλλοι δὲ βαλλόμεναι:</p>
-                            </div>
-                        </div>
                     </div>
 
 
-                    <!-- team F -->
-                    <div n="f1" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.412</p>
-                        </div>
-                        <div type="comment">
-                            <p>
-                                <list>
-                                    <item><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                                <abbr>Ἀρισταρχ</abbr>
-                                                <expan>Ἀρίσταρχος</expan>
-                                            </choice></persName>
-                                        <q>εφαμαρτεῖτε</q></item>
-                                    <item>ἄλλοι δὲ <q>ἐφομαρτεῖτον</q></item>
-                                    <item>ἄλλοι δὲ <q>ἐφομαρτεῖτε</q></item>
-                                </list>
-                            </p>
-                        </div>
-                    </div>
-                    <div n="f2" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.420</p>
-                        </div>
-                        <div type="comment">
-                            <p><choice>
-                                    <abbr>ουτ</abbr>
-                                    <expan>οὕτως</expan>
-                                </choice>
-                                <q><choice>
-                                        <expan>πέλασθεν</expan>
-                                        <abbr>πέλασθ</abbr>
-                                    </choice></q>
-                                <rs type="ethnic" n="urn:cite:hmt:place.place79">ϊακῶς</rs></p>
-                        </div>
-                    </div>
-                    <div n="f3" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.423</p>
-                        </div>
-                        <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
-                                        <abbr>Ζηνοτ</abbr>
-                                        <expan>Ζηνόδοτος</expan>
-                                    </choice></persName>
-                                <q>ὥ τ’ὀλίγη ἐνι χώρῃ</q>⁑</p>
-                        </div>
-
-                    </div>
+                    <!-- folio 157r -->
                     <div n="G1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -376,7 +264,7 @@
                                 </choice>ἀντὶ αντ τοῦ ἐμπεσεῖν ἐνσεῖσαι ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="G2" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -385,71 +273,62 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.131</p>
                         </div>
                         <div type="comment">
-                            <p>
-                                γράφεται καὶ <q>πυλάων</q> :</p>
+                            <p> γράφεται καὶ <q>πυλάων</q> :</p>
                         </div>
-                        
-                        
-                        <div n="H1" type="scholion">
-                            <div type="lemma">
-                                <p/>
-                            </div>
-                            <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.273</p>
-                            </div>
-                            <div type="comment">
-                                <p></p>
-                            </div>
-                            
-                        </div><div n="H2" type="scholion">
-                            <div type="lemma">
-                                <p/>
-                            </div>
-                            <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.276</p>
-                            </div>
-                            <div type="comment">
-                                <p></p>
-                            </div>
-                            
-                        </div>
-                        
-                    </div><div n="G6" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.382</p>
-                        </div>
-                        <div type="comment">
-                            <p></p>
-                        </div>
-                    </div><div n="G7" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.383</p>
-                        </div>
-                        <div type="comment">
-                            <p></p>
-                        </div>
-                    </div><div n="G8" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.386</p>
-                        </div>
-                        <div type="comment">
-                            <p></p>
-                        </div>
-                        
+
                     </div>
-                    
-                    
+
+                    <!-- folio 157v -->
+                    <div n="E3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.153</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῖς ἀπο τοῦ τείχους όχλοις θαρροῦντες </p>
+                        </div>
+
+                    </div>
+                    <div n="E4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.155</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι λείπει ἡ ὑπὸ πρόθεσις</p>
+                        </div>
+
+                    </div>
+                    <div n="E5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.161</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὔτως διὰ τοῦ <rs type="waw">ο</rs> ῥέον ὁμηρικὸν τὸ σχημα:</p>
+                        </div>
+                    </div>
+                    <div n="E6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.161</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
+                                βαλλομενων ἄλλοι δὲ βαλλόμεναι:</p>
+                        </div>
+                    </div>
+
                     <!-- folio 158r -->
-                    
+
                     <div n="H1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -458,12 +337,408 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.179</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἐν ἄλλῳ <q>θυμῷ</q>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!-- folio 158v -->
+                    <div n="H2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+
+                    <!-- folio 159r -->
+                    <!-- folio 159v -->
+                    <div n="H8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="H9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <!-- folio 160r -->
+                    <div n="G3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="G4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <div n="G5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+
+                    </div>
+                    <!-- folio 160v -->
+
+                    <div n="D6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.318</p>
+                        </div>
+                        <div type="comment">
+                            <p>ουτ<choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ἀκλεες αἷ <persName n="urn:cite:hmt:pers.pers16">
+                                    <choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχου</expan>
+                                    </choice></persName> καὶ αἱ χαρίες<choice>
+                                    <abbr>χαρίες</abbr>
+                                    <expan>χαριέστεραι</expan>
+                                </choice></p>
+                        </div>
+                    </div>
+                    <!-- folio 161r -->
+                    <div n="H10" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="H11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="H12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="H13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <!-- folio 161v -->
+                    <div n="J6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="J7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <!-- folio 162r -->
+                    <div n="G6" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.382</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="G7" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.383</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="G8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.386</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <!-- folio 162v -->
+                    <div n="F1" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.412</p>
+                        </div>
+                        <div type="comment">
+                            <p>
+                                <list>
+                                    <item><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                        <q>εφαμαρτεῖτε</q></item>
+                                    <item>ἄλλοι δὲ <q>ἐφομαρτεῖτον</q></item>
+                                    <item>ἄλλοι δὲ <q>ἐφομαρτεῖτε</q></item>
+                                </list>
+                            </p>
+                        </div>
+                    </div>
+                    <div n="F2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.420</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr>ουτ</abbr>
+                                <expan>οὕτως</expan>
+                            </choice>
+                                <q><choice>
+                                    <expan>πέλασθεν</expan>
+                                    <abbr>πέλασθ</abbr>
+                                </choice></q>
+                                <rs type="ethnic" n="urn:cite:hmt:place.place79">ϊακῶς</rs></p>
+                        </div>
+                    </div>
+                    <div n="F3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.423</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                <abbr>Ζηνοτ</abbr>
+                                <expan>Ζηνόδοτος</expan>
+                            </choice></persName>
+                                <q>ὥ τ’ὀλίγη ἐνι χώρῃ</q>⁑</p>
                         </div>
                         
                     </div>
                     
+                    <!-- folio 163r -->
+                    <!-- folio 163v -->
+                  
+                    <div n="J1" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="J2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="J3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="J4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+                    <div n="J5" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                        
+                    </div>
+
                     
+
+
+
+
+
                 </body>
             </text>
         </group>

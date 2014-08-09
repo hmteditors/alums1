@@ -19,29 +19,30 @@
         <group n="12">
             <text n="msAext">
                 <body>
-                    
-                    
-                    <!-- team A -->
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.A1" type="scholion">
+
+
+                    <!-- folio 154v -->
+                    <div n="A1" type="scholion">
                         <div type="lemma">
-                            <p>ὀφρα μεν <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName> ζωὸς</p>
+                            <p>ὀφρα μεν <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName>
+                                ζωὸς</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.10-12.12</p>
                         </div>
                         <div type="comment">
                             <p>ἀπορίαν εἰκότως παρεχει τὰ έπη ταῦτα ἃ περι τοῦ τείχους τῶν <rs
-                                type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>. ὁ
-                                <persName n="urn:cite:hmt:pers.pers17">Ὁμηρος</persName>
+                                    type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>. ὁ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὁμηρος</persName>
                                 ἀναπεφωνηκε· <q>ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers172"
-                                    >Ἑκτωρ</persName> ζωὸς έην. καὶ μηνι' <persName
+                                        >Ἑκτωρ</persName> ζωὸς έην. καὶ μηνι' <persName
                                         n="urn:cite:hmt:pers.pers1">Ἀχιλλευς</persName> καὶ
-                                    <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName>
+                                        <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName>
                                     άνακτος ἀπόρθητος πόλις ἐπλε τόφρα δὲ καὶ μέγα τεῖχος <rs
                                         type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>
                                     ἔμπεδον</q> ἐφ όσον ὁ μὲν <persName
-                                        n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName> έζη <persName
-                                            n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> δὲ ἐμήνιεν ἡ δε
+                                    n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName> έζη <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> δὲ ἐμήνιεν ἡ δε
                                 τοῦ <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName>
                                 <choice>
                                     <abbr>πο</abbr>
@@ -51,10 +52,10 @@
                                 τῶν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>
                                 τοτε κατερίφθη, ὅτι γράφεται τοῦ πολὲμου συνεστῶτος. καὶ <persName
                                     n="urn:cite:hmt:pers.pers1">Ἀχιλλέυς</persName> μὲν μηνίοντος
-                                <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρος</persName> δὲ
+                                    <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρος</persName> δὲ
                                 περιόντος καὶ ἀριστεύοντος, ὑπο τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place6">Τρωων</rs> τὸ τεῖχος τῶν <rs
-                                        type="ethnic" n="urn:cite:hmt:place.place96">Αχαιῶν</rs>
+                                    type="ethnic" n="urn:cite:hmt:place.place96">Αχαιῶν</rs>
                                 κατερίφθη καὶ διοδευσιμον γέγονε τοῖς πολεμίοις· ὁ μὲν γὰρ <persName
                                     n="urn:cite:hmt:pers.pers195">Σαρπηδων</persName> τὰς ἐπάλξεις
                                 αὐτοῦ καὶ μέρος τί καταβέβληκεν· ο δε <persName
@@ -85,38 +86,52 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.641</ref>
                                 </cit> ἀλλα κυρίως νῦν ἐξενήνεκται, τὸ πέδον ἐχούσης ἐντεταγμένον
                                 τῆς λέξεως, ὥστε σημαινοι ἄν ὅτι ἐν τῷ πεδίῳ κείμενον καὶ μὴ
-                                ἁλίπλοον ἀντέθηκε γὰρ τὸ <q>ἑμπεδον</q> τῷ <cit><q>ἁλιπλόω</q><ref type="urn">urn:cts:greekLit:tlg0012.001:12.26</ref></cit> τὸ ἐν τῶ πεδίῳ προς τὸ
-                                αῦθις ἁλίπλουν γιγνομένον γὰρ ἔφη τόφρα δὲ καὶ μέγα τεῖχος απόρθητον
-                                ἦν καὶ ἄθραυστον καὶ <q>ἔμπεδον</q> καὶ πάλιν <cit><q>ούτι πολὺν χρόνον ἔμπεδον
-                                    ῆεν</q><ref type="urn">urn:cts:greekLit:tlg0012.001:12.9</ref></cit>· τί οὖν πάσχει ὕστερον τῶν ποταμῶν πάντων φησὶν <cit><q>ὁμόσε στόματ’
-                                        έτραπε <persName n="urn:cite:hmt:pers.pers40">Φοῖβος
-                                            Ἀπόλλων</persName>· ἐννῆμαρ δ’ ἐς τεῖχος ϊιε ῥόον ὑιι δ’ ἄρα
-                                        <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> συννεχές
-                                        ὄφρα κε θᾶσσον ἁλίπλοα τείχεα θείη αὐτὸς δ’ ἐννοσίγαιος ἔχων
-                                        χείρεσσι τρίαιναν ἡγεῖτ’ ἐκ δ’ ἄρα πάντα θεμείλια κύμασι πέμπε
-                                        φιτρῶν καὶ λάων τὰ θέσαν μογέοντες <rs type="ethnic"
-                                            n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs> λεια δ’ ἐποίησεν
-                                        παραγάρροον <placeName n="urn:cite:hmt:place.place22"
-                                            >Ἑλλησποντον</placeName></q><ref type="urn">urn:cts:greekLit:tlg0012.001:12.24-12.30</ref></cit> ὥστ’ εἰ καὶ πεπτωκὸς ἦν τὸ τεῖχος, ἀλλ
-                                επι τῶ ἐμπέδω ῆν τὰ πτώματα καὶ τὰ θεμέλια, ὕστερον δὲ πάντα δι
-                                ύδατος εἰς θάλασσαν φησὶν ἐξενεχθῆναι, συνεστώσης δὲ τῆς πόλεως
-                                οὐδε̂ν τοῦ τείχους ἁλίπλουν γέγονεν. οὐδ ότε Ξάνθος ἐπλήμυρεν κάτ’
-                                <persName n="urn:cite:hmt:pers.pers1">Αχιλλέως</persName>, καὶ
-                                τὸ κατα μεταφορὰν δ’ ἔμπεδον τὸ σημαῖνον τὸ ἀκίνητον ἀπο τῶν ἐν τῶ
-                                πεδίω μενόντων ἀκινήτων λέγεται, τὸ δὲ τεῖχος κατ αυτο μὲν ἐκινήθη
-                                ἐκ μέντοι τοῦ πεδίου κατηνέχθη ἐπι θάλασσαν ὅπερ φησὶν αὐτὸς ὕστερον
+                                ἁλίπλοον ἀντέθηκε γὰρ τὸ <q>ἑμπεδον</q> τῷ <cit>
+                                    <q>ἁλιπλόω</q>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.001:12.26</ref>
+                                </cit> τὸ ἐν τῶ πεδίῳ προς τὸ αῦθις ἁλίπλουν γιγνομένον γὰρ ἔφη
+                                τόφρα δὲ καὶ μέγα τεῖχος απόρθητον ἦν καὶ ἄθραυστον καὶ
+                                    <q>ἔμπεδον</q> καὶ πάλιν <cit>
+                                    <q>ούτι πολὺν χρόνον ἔμπεδον ῆεν</q>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.001:12.9</ref>
+                                </cit>· τί οὖν πάσχει ὕστερον τῶν ποταμῶν πάντων φησὶν <cit>
+                                    <q>ὁμόσε στόματ’ έτραπε <persName n="urn:cite:hmt:pers.pers40"
+                                            >Φοῖβος Ἀπόλλων</persName>· ἐννῆμαρ δ’ ἐς τεῖχος ϊιε
+                                        ῥόον ὑιι δ’ ἄρα <persName n="urn:cite:hmt:pers.pers8"
+                                            >Ζεὺς</persName> συννεχές ὄφρα κε θᾶσσον ἁλίπλοα τείχεα
+                                        θείη αὐτὸς δ’ ἐννοσίγαιος ἔχων χείρεσσι τρίαιναν ἡγεῖτ’ ἐκ
+                                        δ’ ἄρα πάντα θεμείλια κύμασι πέμπε φιτρῶν καὶ λάων τὰ θέσαν
+                                        μογέοντες <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                                            >Ἀχαιοὶ</rs> λεια δ’ ἐποίησεν παραγάρροον <placeName
+                                            n="urn:cite:hmt:place.place22"
+                                        >Ἑλλησποντον</placeName></q>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.001:12.24-12.30</ref>
+                                </cit> ὥστ’ εἰ καὶ πεπτωκὸς ἦν τὸ τεῖχος, ἀλλ επι τῶ ἐμπέδω ῆν τὰ
+                                πτώματα καὶ τὰ θεμέλια, ὕστερον δὲ πάντα δι ύδατος εἰς θάλασσαν
+                                φησὶν ἐξενεχθῆναι, συνεστώσης δὲ τῆς πόλεως οὐδε̂ν τοῦ τείχους
+                                ἁλίπλουν γέγονεν. οὐδ ότε Ξάνθος ἐπλήμυρεν κάτ’ <persName
+                                    n="urn:cite:hmt:pers.pers1">Αχιλλέως</persName>, καὶ τὸ κατα
+                                μεταφορὰν δ’ ἔμπεδον τὸ σημαῖνον τὸ ἀκίνητον ἀπο τῶν ἐν τῶ πεδίω
+                                μενόντων ἀκινήτων λέγεται, τὸ δὲ τεῖχος κατ αυτο μὲν ἐκινήθη ἐκ
+                                μέντοι τοῦ πεδίου κατηνέχθη ἐπι θάλασσαν ὅπερ φησὶν αὐτὸς ὕστερον
                                 παθεῖν</p>
-                        </div> 
+                        </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.A2" type="scholion">
-                        <div type="lemma"><p></p></div>
-                        <div type="ref"><p>urn:cts:greekLit:tlg0012.tlg001.msA:12.17</p></div>
-                        <div type="comment"><p>σειδαων</p></div>
+                    <div n="A2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.17</p>
+                        </div>
+                        <div type="comment">
+                            <p>σειδαων</p>
+                        </div>
                     </div>
-                    
-                    <!-- Team B -->
-                    
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.B1" type="scholion">
+
+                    <!-- folio 155r -->
+
+                    <div n="B1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -127,64 +142,111 @@
                             <p>αειδαον</p>
                         </div>
                     </div>
-                    <!-- team C -->
-                    <!-- team D -->
-                    <!-- team E -->
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.E2" type="scholion">
+                    <!-- folio 155v -->
+                    <!-- folio 156r -->
+                    <!-- folio 156v -->
+
+                    <!-- folio 157r -->
+                    <div n="G1" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.131</p>
+                        </div>
+                        <div type="comment">
+                            <p>πυλάων</p>
+                        </div>
+                    </div>
+
+                    <!-- folio 157v -->
+
+                    <div n="E2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.162</p>
                         </div>
                         <div type="comment">
                             <p>ὢ</p>
                         </div>
-                        
+
                     </div>
-                    <!-- team F -->
+
+                    <!-- folio 158r -->
+                    <!-- folio 158v -->
+                    <!-- folio 159r -->
+                    <!-- folio 159v -->
+                    <div n="H1" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- folio 160r -->
+                    <div n="G2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p></p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- folio 160v -->
+                    <!-- folio 161r -->
+                    <div n="H2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p></p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- folio 161v -->
+                    <!-- folio 162r -->
+                    <!-- folio 162v -->
+                    <div n="G3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.382</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- folio 163r -->
+                    <div n="F1" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p></p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <!-- folio 163v -->
                     
-                            
-                            <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.G1" type="scholion">
-                                <div type="lemma">
-                                    <p/>
-                                </div>
-                                <div type="ref">
-                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.131</p>
-                                </div>
-                                <div type="comment">
-                                    <p>πυλάων</p>
-                                </div>
-                            </div>
-                            
-                            
-                            <!-- ? -->
-                            <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.H1" type="scholion">
-                                <div type="lemma">
-                                    <p/>
-                                </div>
-                                <div type="ref">
-                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258</p>
-                                </div>
-                                <div type="comment">
-                                    <p></p>
-                                </div>
-                            </div>
-                            
-                            <div n="urn:cts:greekLit:tlg5026.msAext.hmt:12.G3" type="scholion">
-                                <div type="lemma">
-                                    <p/>
-                                </div>
-                                <div type="ref">
-                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.382</p>
-                                </div>
-                                <div type="comment">
-                                    <p></p>
-                                </div>
-                            </div>
-                  
-                        
-                
+
+                    
+
+
+
                 </body>
             </text>
         </group>
