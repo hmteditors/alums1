@@ -459,7 +459,7 @@
                      type="comment">
                      <p>ἐν <choice>
                            <abbr>αλλ</abbr>
-                           <expan>αλλῳ</expan>
+                        <expan>ἀλλῷ</expan>
                         </choice>
                         <q>θηκατο νεβρόν</q>. </p>
                   </div>
@@ -493,7 +493,7 @@
                   </div>
                   <div
                      type="comment">
-                     <p>εἰς τουπίσω τεινόμενα εῖδος δὲ τοξίας ⁑ </p>
+                     <p>εἰς <sic>τουπίσω</sic> τεινόμενα εῖδος δὲ τοξίας ⁑ </p>
                   </div>
                </div>
                <div
@@ -527,7 +527,7 @@
                      type="comment">
                      <p>τὸ <persName n="urn:cite:hmt:pers.pers613">Ἀμοπάονα</persName> ἐν ενὶ <choice>
                            <abbr>με</abbr>
-                           <expan>μερει</expan>
+                        <expan>μέρει</expan>
                         </choice> λόγου αναγνωστέον κύριον γὰρ ⁑</p>
                   </div>
                </div>
