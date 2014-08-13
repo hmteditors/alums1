@@ -2462,13 +2462,13 @@
                   <div type="comment">
                      <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γράφει σὺν
                         τῷ <rs type="waw">ν</rs>
-                        <q>νῶϊν</q> τοῦτο δὲ τίθεται ἀντι τοῦ <q>ἡμῖν</q> ἡ <q>ἡμῶν</q> οὐδέτερον δὲ
+                        <q>νῶϊν</q> τοῦτο δὲ τίθεται ἀντι τοῦ <q>ἡμῖν</q> ἡ <q>ἡμῶν</q> οὐδέτερον δὲ
                         ἁρμόζει τὸ <q>γὰρ νῶϊ</q> ἐστὶν ἢ <q>ἡμεῖς</q> ἢ <q>ἡμᾶς</q> ⁑</p>
                   </div>
                </div>
                <div n="248" type="scholion">
                   <div type="lemma">
-                     <p>ρηθήσει <choice>
+                     <p><sic>ρηθήσει</sic> <choice>
                            <sic>προφανεὶσα</sic>
                            <corr>προφανείσα</corr>
                         </choice>:</p>
@@ -2486,11 +2486,11 @@
                            <q>πληγέντε κεραυνῷ</q>
                         </cit> δυϊκῶς. ὁ δε <persName n="urn:cite:hmt:pers.pers15"
                            >Ζηνόδοτος</persName>
-                        <q>γηθήσει προφανεῖσας ἰδὼν ἐς δοῦπον ἀκόντων</q>
+                        <q>γηθήσει προφανείσας ἰδὼν ἐς δοῦπον ἀκόντων</q>
                         <note resp="Erbse">cf. Λ 364</note> συστέλλων τὴν τελευταίαν παροξυτόνως
                         προφερόμενος μετ εκτάσεως τοῦ <rs type="waw">α</rs> ἔστι δὲ ἄκρατον <rs
                            n="urn:cite:hmt:place.place78" type="ethnic">Δόριον</rs> σπάνιον δὲ τῷ
-                              <w><add place="supralinear">τοι</add>οῦτῳ</w> παρα τῷ ποιητῇ ⁑</p>
+                              <w><sic><add place="supralinear">τοι</add>οῦτῳ</sic></w> παρα τῷ ποιητῇ ⁑</p>
                   </div>
                </div>
                <div n="249" type="scholion">
