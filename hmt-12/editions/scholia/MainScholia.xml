@@ -5,8 +5,25 @@
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Main Scholia</title>
-                <author>Melissa Browne</author>
-                <author>Stephanie Lindeborg</author>
+                <editor>Michiel Cock</editor>
+                <editor>Shannon Young</editor>
+                <editor>Melody Wauke</editor>
+                <editor>Charlie Schufrieder</editor>
+                <editor>Jacob Luber</editor>
+                <editor>Sam Hill</editor>
+                <editor>Kirsten Haijes</editor>
+                <editor>James Skoog</editor>
+                <editor>Eric Dugdale</editor>
+                <editor>Amie Goblirsch</editor>
+                <editor>Solomon Umana</editor>
+                <editor>Suzanne Verkade</editor>
+                <editor>Olga Levanouik</editor>
+                <editor>Ian James</editor>
+                <editor>Corinne Pache</editor>
+                <editor>Malia Piper</editor>
+                <editor>Melissa Browne</editor>
+                <editor>Stephanie Lindeborg</editor>
+                <editor>Ian Tewksbury</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -244,7 +261,7 @@
                                 εἰ μὴ δι <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName>·
                                 καὶ τῷ <placeName n="urn:cite:hmt:place.place92"
                                     >Σιμοῦντι</placeName> προσέθηκεν ἐπίθετον τὸ <cit>
-                                    <q>θεῖόν τε Σιμοῦντα</q>
+                                    <q>θεῖόν τε <placeName n="urn:cite:hmt:place.place92">Σιμοῦντα</placeName></q>
                                     <ref type="urn">urn:cts:greekLit:tlg0020.tlg001:342</ref>
                                 </cit>
                             </p>
