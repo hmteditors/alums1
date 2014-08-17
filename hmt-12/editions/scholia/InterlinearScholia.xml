@@ -1232,10 +1232,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.202@φοινήεντα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>φονευτικὸν ἢ πυρρον:</p>
                         </div>
                     </div>
                     <div n="H8" type="scholion">
@@ -1243,10 +1243,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.204@κόψε</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>έδακεν έπληξεν:</p>
                         </div>
                     </div>
                     <div n="H9" type="scholion">
@@ -1254,10 +1254,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.205@ἰ̈δνωθεὶς</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>συνειλήσας ἑαυτὸν καμφθεῖς</p>
                         </div>
                     </div>
                     <div n="H10" type="scholion">
@@ -1265,10 +1265,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.207@κλάγξας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>βοήσας</p>
                         </div>
                     </div>
                     <div n="H11" type="scholion">
@@ -1276,21 +1276,21 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.213@παρὲξ ἀγορευέμεν</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>έξωθεν τῶν χρηστῶν·</p>
                         </div>
                     </div>
                     <div n="H12" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.225@οὐ κόσμῳ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐ κατα τὸ δέον:</p>
                         </div>
                     </div>
                     <div n="H13" type="scholion">
@@ -1298,10 +1298,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.225@παρὰ ναῦφιν</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>απ</abbr><expan>ἀπὸ</expan></choice> τῶν νεῶν</p>
                         </div>
                     </div>
                     <div n="H14" type="scholion">
@@ -1309,10 +1309,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.225@αὐτὰ κέλευθα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὰς αὐτὰς ὁδούς</p>
                         </div>
                     </div>
                     <!-- folio 159r -->

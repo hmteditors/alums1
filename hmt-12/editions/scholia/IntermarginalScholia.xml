@@ -366,10 +366,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.210</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> λείπει ἡ <q>προς</q> πρὸς <q><persName
+                                        n="urn:cite:hmt:pers.pers172"><choice>
+                                            <abbr>Ἕκτο</abbr>
+                                            <expan>Ἕκτορα</expan>
+                                        </choice></persName></q></p>
                         </div>
 
                     </div>
@@ -378,10 +385,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.211</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> δια τοῦ <rs type="waw">π</rs>
+                                <q>ἐπιπλήσσεις</q> ⁑</p>
                         </div>
 
                     </div>
@@ -390,10 +401,30 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.213</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ἀντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <q><choice>
+                                        <abbr>δημοτ</abbr>
+                                        <expan>δημότην</expan>
+                                    </choice></q>
+                                <q>ἰδιότην</q>
+                                <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers493">Ηρῳδιανός</persName>
+                                <q>δῆμον <choice>
+                                        <abbr>εοντ</abbr>
+                                        <expan>ἐόντα</expan>
+                                    </choice></q></p>
                         </div>
 
                     </div>
@@ -402,10 +433,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.214</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν ἄλλω <q>σὸν δὲ κλέος</q></p>
                         </div>
 
                     </div>
@@ -414,10 +445,18 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.216</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>μη ΐωμεν</q> συνέσταλκεν ⁑</p>
                         </div>
 
                     </div>
@@ -426,10 +465,19 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.218</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>χω</abbr>
+                                    <expan>χωρὶς</expan>
+                                </choice> τῆς <choice>
+                                    <abbr>προθ</abbr>
+                                    <expan>προθέσεως</expan>
+                                </choice> αἱ <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName></p>
                         </div>
 
                     </div>
@@ -531,7 +579,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="H11" type="scholion">
                         <div type="lemma">
@@ -543,7 +591,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="H12" type="scholion">
                         <div type="lemma">
@@ -555,7 +603,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="H13" type="scholion">
                         <div type="lemma">
@@ -567,7 +615,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <!-- folio 161v -->
                     <div n="J6" type="scholion">
@@ -580,7 +628,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="J7" type="scholion">
                         <div type="lemma">
@@ -592,7 +640,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <!-- folio 162r -->
                     <div n="G6" type="scholion">
@@ -627,7 +675,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <!-- folio 162v -->
                     <div n="F1" type="scholion">
@@ -641,9 +689,9 @@
                             <p>
                                 <list>
                                     <item><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                        <abbr>Ἀρισταρχ</abbr>
-                                        <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName>
+                                                <abbr>Ἀρισταρχ</abbr>
+                                                <expan>Ἀρίσταρχος</expan>
+                                            </choice></persName>
                                         <q>εφαμαρτεῖτε</q></item>
                                     <item>ἄλλοι δὲ <q>ἐφομαρτεῖτον</q></item>
                                     <item>ἄλλοι δὲ <q>ἐφομαρτεῖτε</q></item>
@@ -660,13 +708,13 @@
                         </div>
                         <div type="comment">
                             <p><choice>
-                                <abbr>ουτ</abbr>
-                                <expan>οὕτως</expan>
-                            </choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
                                 <q><choice>
-                                    <expan>πέλασθεν</expan>
-                                    <abbr>πέλασθ</abbr>
-                                </choice></q>
+                                        <expan>πέλασθεν</expan>
+                                        <abbr>πέλασθ</abbr>
+                                    </choice></q>
                                 <rs type="ethnic" n="urn:cite:hmt:place.place79">ϊακῶς</rs></p>
                         </div>
                     </div>
@@ -679,17 +727,17 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers15"><choice>
-                                <abbr>Ζηνοτ</abbr>
-                                <expan>Ζηνόδοτος</expan>
-                            </choice></persName>
+                                        <abbr>Ζηνοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
                                 <q>ὥ τ’ὀλίγη ἐνι χώρῃ</q>⁑</p>
                         </div>
-                        
+
                     </div>
-                    
+
                     <!-- folio 163r -->
                     <!-- folio 163v -->
-                  
+
                     <div n="J1" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -700,7 +748,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="J2" type="scholion">
                         <div type="lemma">
@@ -712,7 +760,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="J3" type="scholion">
                         <div type="lemma">
@@ -724,7 +772,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="J4" type="scholion">
                         <div type="lemma">
@@ -736,7 +784,7 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
                     <div n="J5" type="scholion">
                         <div type="lemma">
@@ -748,10 +796,10 @@
                         <div type="comment">
                             <p/>
                         </div>
-                        
+
                     </div>
 
-                    
+
 
 
 
