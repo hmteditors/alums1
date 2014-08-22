@@ -517,7 +517,16 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.280</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τα αυτοῦ <choice>
+                                    <abbr>σημ</abbr>
+                                    <expan>σημεῖα</expan>
+                                </choice> καὶ <choice>
+                                    <abbr>βελ</abbr>
+                                    <expan>βέλη</expan>
+                                </choice> ἐπιπέμπει <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> χoλον βελος δὲ νῦν τὸν χειμῶνα ⁑</p>
                         </div>
 
                     </div>
@@ -529,7 +538,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.287</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>σημειωτ</abbr>
+                                    <expan>σημειωτέον</expan>
+                                </choice> ὅτι τὰς λίθους θηλυκῶς ⁑</p>
                         </div>
 
                     </div>
@@ -541,7 +553,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.293</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>μέλασιν. ἠ ειλοῦσι τοὺς πόδας ἐν τῇ πορεία </p>
                         </div>
 
                     </div>

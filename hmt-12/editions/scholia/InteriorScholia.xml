@@ -279,7 +279,18 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.283</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> διὰ <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τοῦ</expan>
+                                </choice>
+                                <rs type="waw">o</rs>
+                                <q><choice>
+                                        <abbr>λοτουντ</abbr>
+                                        <expan>λωτοῦντα</expan>
+                                    </choice></q></p>
                         </div>
                     </div>
                     <div n="G8" type="scholion">
@@ -290,7 +301,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.286</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται <q>ειλύαται</q></p>
                         </div>
                     </div>
                     <div n="G9" type="scholion">
@@ -301,7 +312,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.297</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ραβδοειδέσι ραφαῖς:</p>
                         </div>
                     </div>
                     <div n="G10" type="scholion">
@@ -312,7 +323,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.301</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται καὶ <q>ἐς πυκινόν</q></p>
                         </div>
                     </div>
                     <!-- folio 160v -->
