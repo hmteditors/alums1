@@ -1327,7 +1327,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.228@ὐποκρίναιτο</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>αντι τοῦ <q>ἀπεκρίνατο</q> ἐξηγούμενος τὸ σημεῖον</p>
                         </div>
                     </div>
                     <div n="G500" type="scholion">
@@ -1338,7 +1338,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.228@θεοπρόπος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οἰωνιστ</abbr><expan>οἰωνιστής</expan></choice></p>
                         </div>
                     </div>
                     <div n="G11" type="scholion">
@@ -1349,7 +1349,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.233@ἀπὸ σπουδῆς</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπο κρίσεως</p>
                         </div>
                     </div>
                     <div n="G12" type="scholion">
@@ -1360,7 +1360,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.239@πρὸς ἠῶ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προς ανατολὴν</p>
                         </div>
                     </div>
                     <div n="G13" type="scholion">
@@ -1371,7 +1371,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.240@ποτὶ ζόφον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προς δυσμάς</p>
                         </div>
                     </div>
                     <div n="G14" type="scholion">
@@ -1382,7 +1382,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.247@μενεδήϊος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν τῇ μάχη καρτερικός</p>
                         </div>
                     </div>
                     <div n="G15" type="scholion">
@@ -1393,7 +1393,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.249@παρφάμενος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>παραλογισάμενος</p>
                         </div>
                     </div>
                     <div n="G16" type="scholion">
@@ -1404,7 +1404,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.250@τυπεὶς</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πληγεὶς</p>
                         </div>
                     </div>
 

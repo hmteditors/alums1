@@ -254,7 +254,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.228</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἀντι τοῦ <q>ἀποκρίναιτο</q> :</p>
                         </div>
                     </div>
                     <div n="G6" type="scholion">
@@ -265,7 +268,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.246</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>παρα <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνοδότῳ</expan>
+                                    </choice></persName>
+                                <q>νηυσὶν ὑπ <rs type="ethnic" n="urn:cite:hmt:place.place114"
+                                        >Αργείων</rs></q> : </p>
                         </div>
                     </div>
                     <!-- folio 159v -->
