@@ -107,8 +107,8 @@
                                 ἁλίπλοον ἀντέθηκε γὰρ τὸ <q><sic>ἑμπεδον</sic></q> τῷ <cit>
                                     <q>ἁλιπλόω</q>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.001:12.26</ref>
-                                </cit> τὸ ἐν τῶ πεδίῳ προς τὸ αῦθις ἁλίπλουν <sic>γιγνομένον</sic> γὰρ ἔφη
-                                τόφρα δὲ καὶ μέγα τεῖχος απόρθητον ἦν καὶ ἄθραυστον καὶ
+                                </cit> τὸ ἐν τῶ πεδίῳ προς τὸ αῦθις ἁλίπλουν <sic>γιγνομένον</sic>
+                                γὰρ ἔφη τόφρα δὲ καὶ μέγα τεῖχος απόρθητον ἦν καὶ ἄθραυστον καὶ
                                     <q>ἔμπεδον</q> καὶ πάλιν <cit>
                                     <q>ούτι πολὺν χρόνον ἔμπεδον ῆεν</q>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.001:12.9</ref>
@@ -229,10 +229,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.340</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del>πάσας γὰρ <q><choice>
+                                        <abbr>επῴχατ</abbr>
+                                        <expan>ἐπῴχατο</expan>
+                                    </choice></q></del>
+                            </p>
                         </div>
                     </div>
                     <!-- folio 161v -->
@@ -255,10 +259,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.446</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del>εστη και</del></p>
                         </div>
                     </div>
                     <!-- folio 163v -->

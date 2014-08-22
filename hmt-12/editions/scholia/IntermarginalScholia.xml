@@ -586,10 +586,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.330</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> μέγα έθνος ἄγοντε δυϊκῶς ⁑</p>
                         </div>
 
                     </div>
@@ -598,10 +605,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.336</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> νεωστὶ ⁑</p>
                         </div>
 
                     </div>
@@ -610,10 +624,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.347</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εκ πλήρους τὸν <choice>
+                                    <abbr>συνδ</abbr>
+                                    <expan>σύνδεσμον</expan>
+                                </choice>
+                                <q>καὶ κεῖθι</q> ⁑</p>
                         </div>
 
                     </div>
@@ -622,10 +640,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.352</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γραγεται <q>κατα τεῖχος</q> :</p>
                         </div>
 
                     </div>

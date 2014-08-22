@@ -333,10 +333,20 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.340</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> πᾶσας γὰρ <choice>
+                                    <abbr>ἐπώχατ</abbr>
+                                    <expan>ἐπῴχατο</expan>
+                                </choice> :</p>
                         </div>
                     </div>
                     <div n="H5" type="scholion">
@@ -344,10 +354,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.350</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
+                                <choice>
+                                    <abbr>ἠθετ</abbr>
+                                    <expan>ἠθέτει</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <!-- folio 161v -->
@@ -382,10 +399,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.430-12.431</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπο τοῦ “ράζω”</p>
                         </div>
                     </div>
                     <div n="F2" type="scholion">
@@ -393,10 +410,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.433-12.435</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ταλαντὸν παρα το ταλαὸν καὶ ὑπομενητικὸν τοῦ βάρους:</p>
                         </div>
                     </div>
                     <div n="F3" type="scholion">
@@ -404,10 +421,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.435</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔν τισιν μετα τοῦ <rs type="waw">ν</rs>
+                                <q>ἀνεικέα</q>· ἐξω νείκους, </p>
                         </div>
                     </div>
                     <div n="F4" type="scholion">
@@ -415,10 +433,18 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.446</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Ἀριστάρχος</expan>
+                                    </choice></persName>
+                                <q>εστηκει</q>
+                                <choice>
+                                    <abbr>χω</abbr>
+                                    <expan>χωρὶς</expan>
+                                </choice> τοῦ <rs type="waw">ϊ</rs></p>
                         </div>
                     </div>
                     <div n="F5" type="scholion">
@@ -426,10 +452,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.451</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> δια τοῦ <rs type="waw">ε</rs>
+                                <q>φέρει</q></p>
                         </div>
                     </div>
 
