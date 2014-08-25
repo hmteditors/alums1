@@ -1442,7 +1442,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258@κρόσσας</p>
                         </div>
                         <div type="comment">
-                            <p>προμαχῶνας ἢ κλίμακας :</p>
+                            <p><sic>προμαχῶνας</sic> ἢ κλίμακας :</p>
                         </div>
                     </div>
                     <div n="H18" type="scholion">
@@ -1466,7 +1466,7 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>προμαχ</abbr>
-                                    <expan>προμαχῶνας</expan>
+                                    <expan>προμαχεῶνα</expan>
                                 </choice>
                             </p>
                         </div>
