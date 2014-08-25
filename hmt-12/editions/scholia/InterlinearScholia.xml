@@ -1338,7 +1338,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.228@θεοπρόπος</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οἰωνιστ</abbr><expan>οἰωνιστής</expan></choice></p>
+                            <p><choice>
+                                    <abbr>οἰωνιστ</abbr>
+                                    <expan>οἰωνιστής</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="G11" type="scholion">
@@ -1414,10 +1417,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.255@θέλγε</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡπατα ἔβλαπτεν</p>
                         </div>
                     </div>
                     <div n="H16" type="scholion">
@@ -1425,10 +1428,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.257@πειρήτιζον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πείραν ἐποιοῦντο : </p>
                         </div>
                     </div>
                     <div n="H17" type="scholion">
@@ -1436,10 +1439,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258@κρόσσας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προμαχῶνας ἢ κλίμακας :</p>
                         </div>
                     </div>
                     <div n="H18" type="scholion">
@@ -1447,10 +1450,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258@ἔριπον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔστρεψαν</p>
                         </div>
                     </div>
                     <div n="H19" type="scholion">
@@ -1458,10 +1461,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.258@ἐπάλξεις</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>προμαχ</abbr>
+                                    <expan>προμαχῶνας</expan>
+                                </choice>
+                            </p>
                         </div>
                     </div>
                     <div n="H20" type="scholion">
@@ -1469,10 +1476,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.259@στήλας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ορθοὺς λίθους </p>
                         </div>
                     </div>
                     <div n="H21" type="scholion">
@@ -1480,10 +1487,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.260@ἔχματα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>ἐρίσματ</abbr>
+                                    <expan>ἐρίσματα</expan>
+                                </choice> θεμελίους·</p>
                         </div>
                     </div>
                     <div n="H22" type="scholion">
@@ -1491,10 +1501,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.261@αὐέρυον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εξέβαλον</p>
                         </div>
                     </div>
                     <div n="H23" type="scholion">
@@ -1502,10 +1512,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.264@δηΐους</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τοὺς πολεμίους </p>
                         </div>
                     </div>
                     <div n="H24" type="scholion">
@@ -1513,10 +1523,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.265@κελευτιόωντ'</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>παρεκελεύοντ</abbr>
+                                    <expan>παρεκελεύοντο</expan>
+                                </choice>
+                            </p>
                         </div>
                     </div>
                     <div n="H25" type="scholion">
@@ -1524,10 +1538,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.266@φοιτήτην</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐπερχόμενοι </p>
                         </div>
                     </div>
                     <div n="H26" type="scholion">
@@ -1535,10 +1549,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.267@μειλιχίοις</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πράοις</p>
                         </div>
                     </div>
                     <div n="H27" type="scholion">
@@ -1546,10 +1560,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.267@στερεοῖς</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>σκληροῖς</p>
                         </div>
                     </div>
                     <div n="H28" type="scholion">
@@ -1557,10 +1571,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.268@νείκεον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>oνείδιζον</p>
                         </div>
                     </div>
                     <div n="H29" type="scholion">
@@ -1568,10 +1582,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.269@μεσήεις</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>μέσος <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> δύναμιν</p>
                         </div>
                     </div>
                     <div n="H30" type="scholion">
@@ -1579,10 +1596,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.273@τετράφθω</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τρεπέσθω</p>
                         </div>
                     </div>
                     <div n="H31" type="scholion">
@@ -1590,10 +1607,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.273@ὁμοκλητῆρος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τοῦ ἐγκελευομένου τοῦ ἀπειλοῦντος </p>
                         </div>
                     </div>
                     <div n="H32" type="scholion">
@@ -1601,10 +1618,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.274@ΐεσθε</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁρμᾶτε</p>
                         </div>
                     </div>
                     <div n="H33" type="scholion">
@@ -1612,10 +1629,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.276@δίεσθαι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>διῶξαι</p>
                         </div>
                     </div>
 
@@ -2348,7 +2365,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.444@κροσσάων</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>υπτροχων</abbr><expan>ὑποτρόχων</expan></choice> κλιμάκων</p>
+                            <p><choice>
+                                    <abbr>υπτροχων</abbr>
+                                    <expan>ὑποτρόχων</expan>
+                                </choice> κλιμάκων</p>
                         </div>
                     </div>
                     <div n="F18" type="scholion">
@@ -2359,7 +2379,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.446@πρυμνὸς παχύς</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> τὸ ἔσχατον μέρος παχὺς</p>
+                            <p><choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ ἔσχατον μέρος παχὺς</p>
                         </div>
                     </div>
                     <div n="F19" type="scholion">
