@@ -2052,13 +2052,13 @@
                     </div>
                     <div n="K2" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.354@Αἴαντ'</p>
                         </div>
                         <div type="comment">
-                        <p><rs type="waw">ε</rs></p>
+                            <p><rs type="waw">ε</rs></p>
                         </div>
                     </div>
                     <div n="J20" type="scholion">
@@ -2085,7 +2085,7 @@
                     </div>
                     <div n="K3" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.363@ἅμ'</p>
@@ -2137,7 +2137,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.380@μαρμάρῳ ὀκριόεντι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>λίθω τραχεῖ</p>
                         </div>
                     </div>
                     <div n="G35" type="scholion">
@@ -2148,7 +2148,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.381@ὑπέρτατος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ανωτάτω</p>
                         </div>
                     </div>
                     <div n="G36" type="scholion">
@@ -2159,7 +2159,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.385@ἀρνευτῆρι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κυβηστῆρη</p>
                         </div>
                     </div>
                     <div n="G37" type="scholion">
@@ -2170,7 +2170,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.390@ἆλτο</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καθήλατο</p>
                         </div>
                     </div>
                     <div n="G38" type="scholion">
@@ -2181,7 +2181,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.396@πρηνὴς</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>επι πρόσωπον</p>
                         </div>
                     </div>
                     <div n="G39" type="scholion">
@@ -2189,10 +2189,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.400@ὁμαρτήσανθ‘</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.400@ὁμαρτήσανθ'</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ομοῦ καὶ ὑπο τὸν αὐτὸν καιρὸν ἀφέντες τὰ <choice>
+                                    <abbr>δόρατ</abbr>
+                                    <expan>δόρατα</expan>
+                                </choice></p>
                         </div>
                     </div>
 

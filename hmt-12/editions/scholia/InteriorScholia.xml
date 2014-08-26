@@ -385,7 +385,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.400</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> προς τὸ δεύτερον πρότερον ἀπήντησεν:</p>
                         </div>
                     </div>
                     <div n="G12" type="scholion">
@@ -396,7 +399,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.401</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> δια τελαμώνων ανήπτοντο αἱ ασπίδες ⁑</p>
                         </div>
                     </div>
                     <!-- folio 162v -->
