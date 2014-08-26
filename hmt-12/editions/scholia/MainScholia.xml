@@ -2531,7 +2531,7 @@
 
                     <div n="J11" type="scholion">
                         <div type="lemma">
-                            <p>ὦδε γὰρ ἔβρισαν:</p>
+                            <p>ὧδε γὰρ ἔβρισαν:</p>
 
                         </div>
                         <div type="ref">
@@ -2578,7 +2578,7 @@
                             <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνόδοτ</abbr>
                                         <expan>Ζηνόδοτος</expan>
-                                    </choice></persName> γράφει <q>αὐτίκ' αρ Ἰλιάδην</q>
+                                    </choice></persName> γράφει <q>αὐτίκ' αρ <sic>Ἰλιάδην</sic></q>
                                 <q><persName n="urn:cite:hmt:pers.pers281">Ὀϊλιάδην</persName></q>
                                 δὲ δια παντὸς <persName n="urn:cite:hmt:pers.pers17"
                                     >Ὅμηρος</persName> λέγει, καὶ ὅτι λείπει ἡ <q>πρός</q> ⁑</p>
