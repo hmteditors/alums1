@@ -507,8 +507,9 @@
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName> <q>νικος</q> δια τοῦ <rs type="waw">ϊ</rs> βούλεται γὰρ λέγεσθαι
-                                τὴν <sic>νίκησην</sic> τὴν ητταν ⁑</p>
+                                    </choice></persName>
+                                <q>νικος</q> δια τοῦ <rs type="waw">ϊ</rs> βούλεται γὰρ λέγεσθαι τὴν
+                                    <sic>νίκησην</sic> τὴν ητταν ⁑</p>
                         </div>
 
                     </div>
@@ -657,10 +658,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.360</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>πεσπαστ</abbr>
+                                    <expan>περισπαστέον</expan>
+                                </choice> ὡς εὐγενεῖς:</p>
                         </div>
 
                     </div>
@@ -669,10 +673,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.371</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>εἴρητ</abbr>
+                                    <expan>εἴρηται</expan>
+                                </choice> ὅτι διεσκεύασται:</p>
                         </div>
 
                     </div>

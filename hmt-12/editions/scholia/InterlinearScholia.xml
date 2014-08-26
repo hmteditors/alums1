@@ -2044,10 +2044,21 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.353@εἶθαρ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ευθέως</p>
+                        </div>
+                    </div>
+                    <div n="K2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.354@Αἴαντ'</p>
+                        </div>
+                        <div type="comment">
+                        <p><rs type="waw">ε</rs></p>
                         </div>
                     </div>
                     <div n="J20" type="scholion">
@@ -2055,10 +2066,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.355@ἠνώγει</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κελεύει</p>
                         </div>
                     </div>
                     <div n="J21" type="scholion">
@@ -2066,10 +2077,21 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.356@ἀντιάσητον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>απαντήσητε</p>
+                        </div>
+                    </div>
+                    <div n="K3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.363@ἅμ'</p>
+                        </div>
+                        <div type="comment">
+                            <p><rs type="waw">α</rs></p>
                         </div>
                     </div>
                     <div n="J22" type="scholion">
@@ -2077,10 +2099,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.368@ἀντιόω</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>απαντήσω μετασχω</p>
                         </div>
                     </div>
                     <div n="J23" type="scholion">
@@ -2088,10 +2110,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.371@ἤϊε</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπήρχετο</p>
                         </div>
                     </div>
                     <div n="J24" type="scholion">
@@ -2099,10 +2121,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.374@ἐπειγομένοισι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εσπουδασμένοις</p>
                         </div>
                     </div>
                     <!-- Folio 162r -->
