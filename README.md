@@ -12,3 +12,4 @@ Work editing HMT material from a distributed group of HMT project veterans
 
 - Finishing validation of *Iliad* 8 and *Iliad* 12
 
+- test
