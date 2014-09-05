@@ -6,6 +6,7 @@ Work editing HMT material from a distributed group of HMT project veterans
 
 - Completing verification of *Iliad* 12 in the Venetus A at version 0.5 or higher of HMT MOM
 - Integrating prior work on *Iliad* 8 in the Venetus A with validation at version 0.5 or higher of HMT MOM
+- Indexing main text of *Iliad* 5 in the Venteus A
 
 ## Work in Fall, 2014 ##
 
